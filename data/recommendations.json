@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Demo Review 01",
+    "text": "Pexels talking-camera demo with only a source link.",
+    "video": "https://videos.pexels.com/video-files/8814495/8814495-hd_1080_1920_25fps.mp4",
+    "poster": null,
+    "source_url": "https://www.pexels.com/video/man-talking-in-front-of-the-camera-8814495/",
+    "links": [],
+    "socials": []
+  },
+  {
+    "id": 2,
+    "name": "Demo Review 02",
+    "text": "Portrait Pexels demo with a content link and Instagram social icon.",
+    "video": "https://videos.pexels.com/video-files/7262665/7262665-hd_720_1280_25fps.mp4",
+    "poster": null,
+    "source_url": "https://www.pexels.com/video/man-talking-to-camera-7262665/",
+    "links": [
+      {
+        "display_text": "Review details",
+        "url": "https://example.com/recommendation-details"
+      }
+    ],
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/",
+        "label": "Instagram"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Demo Review 03",
+    "text": "Pexels demo containing multiple social links so wrapping and spacing can be checked.",
+    "video": "https://videos.pexels.com/video-files/7261920/7261920-hd_1080_1920_25fps.mp4",
+    "poster": null,
+    "source_url": "https://www.pexels.com/video/a-man-talking-7261920/",
+    "links": [],
+    "socials": [
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/",
+        "label": "TikTok"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/",
+        "label": "YouTube"
+      },
+      {
+        "platform": "x",
+        "url": "https://x.com/",
+        "label": "X"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Demo Review 04",
+    "text": "Local vertical-card video demo with multiple content links and no social links.",
+    "video": "/recommendations/recommendation-a.mp4",
+    "poster": null,
+    "source_url": null,
+    "links": [
+      {
+        "display_text": "Product",
+        "url": "https://example.com/product"
+      },
+      {
+        "display_text": "Customer note",
+        "url": "https://example.com/customer-note"
+      }
+    ],
+    "socials": []
+  },
+  {
+    "id": 5,
+    "name": "Demo Review 05",
+    "text": "Local demo exercising content links and several social icon types together.",
+    "video": "/recommendations/recommendation-b.mp4",
+    "poster": null,
+    "source_url": null,
+    "links": [
+      {
+        "display_text": "Full recommendation",
+        "url": "https://example.com/full-recommendation"
+      }
+    ],
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/",
+        "label": "Instagram"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/",
+        "label": "Facebook"
+      },
+      {
+        "platform": "github",
+        "url": "https://github.com/MAbdullahAhmad",
+        "label": "GitHub"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Demo Review 06",
+    "text": "Minimal local demo with no source, links, or social profiles for the empty optional-state check.",
+    "video": "/recommendations/recommendation-a.mp4",
+    "poster": null,
+    "source_url": null,
+    "links": [],
+    "socials": []
+  }
+]

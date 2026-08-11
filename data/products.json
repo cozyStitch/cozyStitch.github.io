@@ -1,0 +1,1229 @@
+[
+  {
+    "id": 1,
+    "itemNumber": 1,
+    "slug": "crochet-flower-clip",
+    "name": "Crochet Flower Clip",
+    "category": "clips",
+    "price": 450,
+    "currency": "PKR",
+    "shortDescription": "A soft handmade crochet flower clip for everyday hairstyles.",
+    "description": "A playful crochet flower clip made by hand with soft yarn and careful finishing.",
+    "about": "Lightweight handmade crochet accessory designed for everyday wear and gifting.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "white-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "flower",
+      "clip",
+      "hair",
+      "cute"
+    ],
+    "badges": [
+      "Popular"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          },
+          {
+            "id": "yellow-combo",
+            "label": "Yellow / Cream / Natural",
+            "colors": [
+              "#F2CF66",
+              "#FFF4C2",
+              "#8B5E3C"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "style",
+        "label": "Style",
+        "options": [
+          "Classic",
+          "Pair"
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo",
+      "style": "Classic"
+    },
+    "relatedProductIds": [
+      6,
+      13,
+      5
+    ],
+    "relatedLimit": 3,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1\u20132 days.",
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 2,
+    "itemNumber": 2,
+    "slug": "mini-crochet-keychain",
+    "name": "Mini Crochet Keychain",
+    "category": "keychains",
+    "price": 550,
+    "currency": "PKR",
+    "shortDescription": "A cute handmade crochet keychain for keys, bags, and pouches.",
+    "description": "Soft crochet yarn, carefully finished details, and a lightweight design made for everyday use.",
+    "about": "Handmade crochet keychain designed for keys, bags, pouches, or gifting.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "white-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "keychain",
+      "mini",
+      "gift"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          },
+          {
+            "id": "yellow-combo",
+            "label": "Yellow / Cream / Natural",
+            "colors": [
+              "#F2CF66",
+              "#FFF4C2",
+              "#8B5E3C"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo"
+    },
+    "estimatedDays": 2,
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 3,
+    "itemNumber": 3,
+    "slug": "pink-bag-charm",
+    "name": "Pink Bag Charm",
+    "category": "bag-charms",
+    "price": 650,
+    "currency": "PKR",
+    "shortDescription": "A playful pink crochet charm for handbags and backpacks.",
+    "description": "A small crochet bag charm designed to add color and personality to your everyday bag.",
+    "about": "Lightweight crochet charm with soft yarn and hand-finished details.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "lilac-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "bag",
+      "charm",
+      "pink"
+    ],
+    "badges": [
+      "Popular"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "lilac-combo",
+            "label": "Lilac / Cream / Natural",
+            "colors": [
+              "#C9A7D8",
+              "#F3E7D3",
+              "#FFFFFF"
+            ]
+          },
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo"
+    },
+    "sales": 91,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 4,
+    "itemNumber": 4,
+    "slug": "mini-crochet-handbag",
+    "name": "Mini Crochet Handbag",
+    "category": "mini-bags",
+    "price": 1850,
+    "currency": "PKR",
+    "shortDescription": "A small handmade crochet handbag with a playful everyday shape.",
+    "description": "A carefully crocheted mini handbag designed for cute everyday looks, gifts, and special little occasions.",
+    "about": "Handmade mini bag with reinforced crochet stitching and soft yarn.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "cream-combo"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "mini bag",
+      "handbag",
+      "crochet"
+    ],
+    "badges": [
+      "Customizable"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "cream-combo",
+            "label": "Cream / Cream / Natural",
+            "colors": [
+              "#F3E7D3",
+              "#FFFFFF",
+              "#C7A27A"
+            ]
+          },
+          {
+            "id": "lilac-combo",
+            "label": "Lilac / Cream / Natural",
+            "colors": [
+              "#C9A7D8",
+              "#F3E7D3",
+              "#FFFFFF"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "strap-size",
+        "label": "Strap Size",
+        "options": [
+          "Short",
+          "Long"
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo",
+      "strap-size": "Short"
+    },
+    "relatedProductIds": [
+      8,
+      3,
+      12
+    ],
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Usually ready within 4\u20135 days.",
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 5,
+    "itemNumber": 5,
+    "slug": "crochet-daisy-keychain",
+    "name": "Crochet Daisy Keychain",
+    "category": "keychains",
+    "price": 550,
+    "currency": "PKR",
+    "shortDescription": "A cute handmade crochet daisy keychain.",
+    "description": "Soft handmade crochet keychain designed for bags, keys and gifting.",
+    "about": "A small handmade crochet daisy designed for keys, bags, pouches, or gifting.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "white-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "daisy",
+      "flower",
+      "keychain"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          },
+          {
+            "id": "yellow-combo",
+            "label": "Yellow / Cream / Natural",
+            "colors": [
+              "#F2CF66",
+              "#FFF4C2",
+              "#8B5E3C"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo"
+    },
+    "relatedProductIds": [
+      2,
+      11,
+      9
+    ],
+    "relatedLimit": 3,
+    "sales": 225,
+    "rating": 4.9,
+    "reviewCount": 150
+  },
+  {
+    "id": 6,
+    "itemNumber": 6,
+    "slug": "crochet-bow-clip",
+    "name": "Crochet Bow Clip",
+    "category": "clips",
+    "price": 500,
+    "currency": "PKR",
+    "shortDescription": "A sweet crochet bow clip with soft handmade texture.",
+    "description": "A colorful handmade bow clip designed to add a small playful detail to everyday hairstyles.",
+    "about": "Soft crochet bow attached to a lightweight hair clip.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "red-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "bow",
+      "hair",
+      "clip"
+    ],
+    "badges": [],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "red-combo",
+            "label": "Red / Cream / Natural",
+            "colors": [
+              "#C75C67",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "cream-combo",
+            "label": "Cream / Cream / Natural",
+            "colors": [
+              "#F3E7D3",
+              "#FFFFFF",
+              "#C7A27A"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "style",
+        "label": "Style",
+        "options": [
+          "Classic",
+          "Pair"
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo",
+      "style": "Classic"
+    },
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 7,
+    "itemNumber": 7,
+    "slug": "crochet-heart-charm",
+    "name": "Crochet Heart Charm",
+    "category": "bag-charms",
+    "price": 600,
+    "currency": "PKR",
+    "shortDescription": "A tiny crochet heart charm for bags, keys, and gifting.",
+    "description": "A soft handmade crochet heart finished with a compact loop for bags, pouches, or keys.",
+    "about": "Small hand-crocheted heart accessory made for easy gifting and personalization.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "red-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "heart",
+      "charm",
+      "gift"
+    ],
+    "badges": [
+      "Popular"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "red-combo",
+            "label": "Red / Cream / Natural",
+            "colors": [
+              "#C75C67",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo"
+    },
+    "sales": null,
+    "rating": 4.7,
+    "reviewCount": 38
+  },
+  {
+    "id": 8,
+    "itemNumber": 8,
+    "slug": "mini-flower-handbag",
+    "name": "Mini Flower Handbag",
+    "category": "mini-bags",
+    "price": 2100,
+    "currency": "PKR",
+    "shortDescription": "A mini crochet handbag finished with flower details.",
+    "description": "A handmade mini bag with floral crochet details and a playful compact shape.",
+    "about": "Made by hand with soft yarn, structured crochet stitches, and decorative flower details.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "cream-combo"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "flower",
+      "handbag",
+      "mini"
+    ],
+    "badges": [
+      "Customizable"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "cream-combo",
+            "label": "Cream / Cream / Natural",
+            "colors": [
+              "#F3E7D3",
+              "#FFFFFF",
+              "#C7A27A"
+            ]
+          },
+          {
+            "id": "yellow-combo",
+            "label": "Yellow / Cream / Natural",
+            "colors": [
+              "#F2CF66",
+              "#FFF4C2",
+              "#8B5E3C"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "strap-size",
+        "label": "Strap Size",
+        "options": [
+          "Short",
+          "Long"
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo",
+      "strap-size": "Short"
+    },
+    "relatedProductIds": [
+      4,
+      12,
+      7
+    ],
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Timing may vary slightly depending on the selected customization.",
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 9,
+    "itemNumber": 9,
+    "slug": "crochet-tulip-flower",
+    "name": "Crochet Tulip Flower",
+    "category": "flowers",
+    "price": 700,
+    "currency": "PKR",
+    "shortDescription": "A tiny crochet tulip that stays beautiful forever.",
+    "description": "A handcrafted crochet tulip made for gifting, decoration, and custom arrangements.",
+    "about": "Crochet flower made with soft yarn and a wrapped stem finish.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "red-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "flower",
+      "tulip",
+      "gift"
+    ],
+    "badges": [],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "red-combo",
+            "label": "Red / Cream / Natural",
+            "colors": [
+              "#C75C67",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "yellow-combo",
+            "label": "Yellow / Cream / Natural",
+            "colors": [
+              "#F2CF66",
+              "#FFF4C2",
+              "#8B5E3C"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "finish",
+        "label": "Finish",
+        "options": [
+          "Plain",
+          "Wrapped Stem"
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo",
+      "finish": "Plain"
+    },
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 10,
+    "itemNumber": 10,
+    "slug": "crochet-bunny-charm",
+    "name": "Crochet Bunny Charm",
+    "category": "character-charms",
+    "price": 850,
+    "currency": "PKR",
+    "shortDescription": "A tiny handmade bunny charm with playful crochet details.",
+    "description": "A character charm made by hand for backpacks, handbags, keys, and personalized gifts.",
+    "about": "Soft crochet character accessory with carefully stitched facial details.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "white-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "bunny",
+      "character",
+      "charm"
+    ],
+    "badges": [
+      "Customizable"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          },
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "cream-combo",
+            "label": "Cream / Cream / Natural",
+            "colors": [
+              "#F3E7D3",
+              "#FFFFFF",
+              "#C7A27A"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "white-combo"
+    },
+    "estimatedDays": 5,
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 11,
+    "itemNumber": 11,
+    "slug": "crochet-star-keychain",
+    "name": "Crochet Star Keychain",
+    "category": "keychains",
+    "price": 500,
+    "currency": "PKR",
+    "shortDescription": "A small star-shaped crochet keychain for everyday accessories.",
+    "description": "A lightweight star keychain made by hand with soft yarn and neat finishing.",
+    "about": "Compact crochet accessory designed for keys, school bags, and gifting.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "yellow-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "star",
+      "keychain"
+    ],
+    "badges": [],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "yellow-combo",
+            "label": "Yellow / Cream / Natural",
+            "colors": [
+              "#F2CF66",
+              "#FFF4C2",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "blue-combo",
+            "label": "Blue / Cream / Natural",
+            "colors": [
+              "#8FB9D9",
+              "#FFFFFF",
+              "#A8A8A8"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "yellow-combo"
+    },
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 12,
+    "itemNumber": 12,
+    "slug": "crochet-daisy-bag-charm",
+    "name": "Crochet Daisy Bag Charm",
+    "category": "bag-charms",
+    "price": 650,
+    "currency": "PKR",
+    "shortDescription": "A soft crochet daisy charm for bags and pouches.",
+    "description": "A small handmade crochet daisy designed for bags, keys, pouches, or gifting.",
+    "about": "Soft crochet yarn, carefully finished details, and a lightweight design made for everyday use.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "white-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "daisy",
+      "bag charm",
+      "flower"
+    ],
+    "badges": [
+      "Popular"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          },
+          {
+            "id": "yellow-combo",
+            "label": "Yellow / Cream / Natural",
+            "colors": [
+              "#F2CF66",
+              "#FFF4C2",
+              "#8B5E3C"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo"
+    },
+    "relatedProductIds": [
+      3,
+      7,
+      5
+    ],
+    "relatedLimit": 3,
+    "sales": 58,
+    "rating": 5.0,
+    "reviewCount": 24
+  },
+  {
+    "id": 13,
+    "itemNumber": 13,
+    "slug": "crochet-cloud-clip",
+    "name": "Crochet Cloud Clip",
+    "category": "clips",
+    "price": 480,
+    "currency": "PKR",
+    "shortDescription": "A tiny cloud-shaped crochet hair clip.",
+    "description": "A soft crochet cloud detail attached to a lightweight hair clip for playful everyday styling.",
+    "about": "Handmade crochet hair accessory with a lightweight clip base.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "white-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "blue-combo"
+        }
+      }
+    ],
+    "availability": "out-of-stock",
+    "customizable": false,
+    "featured": false,
+    "tags": [
+      "cloud",
+      "hair",
+      "clip"
+    ],
+    "badges": [],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          },
+          {
+            "id": "blue-combo",
+            "label": "Blue / Cream / Natural",
+            "colors": [
+              "#8FB9D9",
+              "#FFFFFF",
+              "#A8A8A8"
+            ]
+          },
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "style",
+        "label": "Style",
+        "options": [
+          "Classic",
+          "Pair"
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "white-combo",
+      "style": "Classic"
+    },
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  },
+  {
+    "id": 14,
+    "itemNumber": 14,
+    "slug": "crochet-flower-bracelet",
+    "name": "Crochet Flower Bracelet",
+    "category": "accessories",
+    "price": 750,
+    "currency": "PKR",
+    "shortDescription": "A soft crochet flower bracelet with adjustable ties.",
+    "description": "A playful handmade bracelet finished with crochet flowers and adjustable yarn ties.",
+    "about": "Lightweight wearable crochet accessory made with soft yarn.",
+    "images": [
+      {
+        "src": "/products/placeholder.png"
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "pink-combo"
+        }
+      },
+      {
+        "src": "/products/placeholder.png",
+        "variantSelections": {
+          "color": "white-combo"
+        }
+      }
+    ],
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "bracelet",
+      "flower",
+      "accessory"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "pink-combo",
+            "label": "Pink / Cream / Natural",
+            "colors": [
+              "#E8A6B5",
+              "#F3E7D3",
+              "#8B5E3C"
+            ]
+          },
+          {
+            "id": "white-combo",
+            "label": "White / Cream / Natural",
+            "colors": [
+              "#FFFFFF",
+              "#F3E7D3",
+              "#D8D8D8"
+            ]
+          },
+          {
+            "id": "lilac-combo",
+            "label": "Lilac / Cream / Natural",
+            "colors": [
+              "#C9A7D8",
+              "#F3E7D3",
+              "#FFFFFF"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "size",
+        "label": "Size",
+        "options": [
+          "Small",
+          "Medium"
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "pink-combo",
+      "size": "Small"
+    },
+    "sales": null,
+    "rating": null,
+    "reviewCount": null
+  }
+]

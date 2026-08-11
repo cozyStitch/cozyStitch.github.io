@@ -1,0 +1,1 @@
+var e={hidden:{opacity:0,y:24},visible:{opacity:1,y:0}},t={hidden:{opacity:0,scale:.965,y:18},visible:{opacity:1,scale:1,y:0}};function n(e=.08,t=0){return{hidden:{},visible:{transition:{delayChildren:t,staggerChildren:e}}}}export{t as n,n as r,e as t};

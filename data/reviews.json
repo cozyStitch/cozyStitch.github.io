@@ -1,0 +1,322 @@
+[
+  {
+    "productId": 5,
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Areeba",
+        "rating": 5,
+        "text": "Super cute and beautifully made.",
+        "createdAt": "2026-08-10T13:30:00+05:00",
+        "links": [],
+        "socials": [],
+        "media": []
+      },
+      {
+        "id": 2,
+        "name": "Hania",
+        "rating": 5,
+        "text": "Loved the finishing and colors. The tiny details were especially neat.",
+        "createdAt": "2026-08-09T11:15:00+05:00",
+        "links": [
+          {
+            "display_text": "Order reference",
+            "url": "https://example.com/order-reference"
+          }
+        ],
+        "socials": [],
+        "media": []
+      },
+      {
+        "id": 5,
+        "name": "Maham",
+        "rating": 4,
+        "text": "Really pretty in person and the colors matched what I expected.",
+        "createdAt": "2026-08-08T17:45:00+05:00",
+        "links": [],
+        "socials": [
+          {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/",
+            "label": "Instagram"
+          }
+        ],
+        "media": []
+      },
+      {
+        "id": 6,
+        "name": "Zoya",
+        "rating": 5,
+        "text": "The handmade finishing is my favorite part. It feels carefully put together.",
+        "createdAt": "2026-08-07T09:00:00+05:00",
+        "links": [
+          {
+            "display_text": "Photo reference",
+            "url": "https://example.com/photo-reference"
+          }
+        ],
+        "socials": [
+          {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/",
+            "label": "Instagram"
+          },
+          {
+            "platform": "tiktok",
+            "url": "https://www.tiktok.com/",
+            "label": "TikTok"
+          }
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "src": "/products/placeholder.png",
+            "alt": "Demo customer review photo"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Eman",
+        "rating": 3,
+        "text": "Cute overall. I would choose a slightly different color next time, but the stitching itself was neat.",
+        "createdAt": "2026-08-06T16:20:00+05:00",
+        "links": [],
+        "socials": [],
+        "media": [
+          {
+            "type": "photo",
+            "src": "/products/placeholder.png",
+            "alt": "Demo product photo"
+          },
+          {
+            "type": "photo",
+            "src": "/products/placeholder.png",
+            "alt": "Second demo product photo"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Noor",
+        "rating": 5,
+        "text": "Exactly the kind of small handmade accessory I wanted. Very happy with it.",
+        "createdAt": "2026-08-05T12:05:00+05:00",
+        "links": [
+          {
+            "display_text": "More details",
+            "url": "https://example.com/review-details"
+          },
+          {
+            "display_text": "Gift idea",
+            "url": "https://example.com/gift-idea"
+          }
+        ],
+        "socials": [
+          {
+            "platform": "youtube",
+            "url": "https://www.youtube.com/",
+            "label": "YouTube"
+          }
+        ],
+        "media": []
+      },
+      {
+        "id": 9,
+        "name": "Anaya",
+        "rating": 4,
+        "text": "Nice texture and tidy finishing. The size worked well for what I needed.",
+        "createdAt": "2026-08-04T18:40:00+05:00",
+        "links": [],
+        "socials": [
+          {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/",
+            "label": "Facebook"
+          },
+          {
+            "platform": "x",
+            "url": "https://x.com/",
+            "label": "X"
+          }
+        ],
+        "media": [
+          {
+            "type": "video",
+            "src": "/recommendations/recommendation-a.mp4"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Sara",
+        "rating": 2,
+        "text": "The piece was handmade nicely, though the final color was not quite what I had pictured.",
+        "createdAt": "2026-08-03T14:10:00+05:00",
+        "links": [
+          {
+            "display_text": "Color reference",
+            "url": "https://example.com/color-reference"
+          }
+        ],
+        "socials": [],
+        "media": []
+      },
+      {
+        "id": 11,
+        "name": "Laiba",
+        "rating": 5,
+        "text": "Really sweet little piece. The details made it feel much more personal than a mass-produced accessory.",
+        "createdAt": "2026-08-02T10:30:00+05:00",
+        "links": [],
+        "socials": [
+          {
+            "platform": "linkedin",
+            "url": "https://www.linkedin.com/",
+            "label": "LinkedIn"
+          },
+          {
+            "platform": "github",
+            "url": "https://github.com/MAbdullahAhmad",
+            "label": "GitHub"
+          }
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "src": "/products/placeholder.png",
+            "alt": "Demo review image"
+          },
+          {
+            "type": "video",
+            "src": "/recommendations/recommendation-b.mp4"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Iqra",
+        "rating": 4,
+        "text": "Good quality and nicely finished. I especially liked the small crochet details.",
+        "createdAt": "2026-08-01T15:55:00+05:00",
+        "links": [
+          {
+            "display_text": "Customer note",
+            "url": "https://example.com/customer-note"
+          }
+        ],
+        "socials": [
+          {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/",
+            "label": "Instagram"
+          }
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "src": "/products/placeholder.png",
+            "alt": "Customer-submitted demo photo"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Mehak",
+        "rating": 5,
+        "text": "The finishing was very clean and the piece looked lovely with my bag.",
+        "createdAt": "2026-07-31T09:25:00+05:00",
+        "links": [],
+        "socials": [],
+        "media": []
+      },
+      {
+        "id": 14,
+        "name": "Amna",
+        "rating": 3,
+        "text": "A nice handmade piece. I liked the design, though I would probably order a different size next time.",
+        "createdAt": "2026-07-30T20:10:00+05:00",
+        "links": [
+          {
+            "display_text": "Size notes",
+            "url": "https://example.com/size-notes"
+          }
+        ],
+        "socials": [
+          {
+            "platform": "tiktok",
+            "url": "https://www.tiktok.com/",
+            "label": "TikTok"
+          }
+        ],
+        "media": []
+      },
+      {
+        "id": 15,
+        "name": "Rida",
+        "rating": 5,
+        "text": "Very cute, neat, and giftable. The handmade look is exactly what makes it special.",
+        "createdAt": "2026-07-29T13:35:00+05:00",
+        "links": [
+          {
+            "display_text": "Gift reference",
+            "url": "https://example.com/gift-reference"
+          }
+        ],
+        "socials": [
+          {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/",
+            "label": "Instagram"
+          },
+          {
+            "platform": "youtube",
+            "url": "https://www.youtube.com/",
+            "label": "YouTube"
+          }
+        ],
+        "media": [
+          {
+            "type": "video",
+            "src": "/recommendations/recommendation-a.mp4"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Fatima",
+        "rating": 4,
+        "text": "Lovely little crochet accessory with a nice handmade texture and careful finishing.",
+        "createdAt": null,
+        "links": [],
+        "socials": [],
+        "media": []
+      }
+    ]
+  },
+  {
+    "productId": 12,
+    "reviews": [
+      {
+        "id": 3,
+        "name": "Areeba",
+        "rating": 5,
+        "text": "Super cute and looked exactly like the pictures.",
+        "createdAt": null,
+        "links": [],
+        "socials": [],
+        "media": []
+      },
+      {
+        "id": 4,
+        "name": "Hania",
+        "rating": 5,
+        "text": "Loved the finishing and colors.",
+        "createdAt": null,
+        "links": [],
+        "socials": [],
+        "media": []
+      }
+    ]
+  }
+]

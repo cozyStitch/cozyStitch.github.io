@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Areeba",
+    "message": "Super cute and beautifully made. The finishing felt neat and the little handmade details made it feel really special.",
+    "image": null,
+    "role": "Customer",
+    "organization": null,
+    "links": [],
+    "socials": []
+  },
+  {
+    "id": 2,
+    "name": "Hania",
+    "message": "Loved the colors and how carefully everything was finished. It looked even sweeter in person.",
+    "image": "/products/placeholder.png",
+    "role": "Customer",
+    "organization": null,
+    "links": [],
+    "socials": []
+  },
+  {
+    "id": 3,
+    "name": "Maham",
+    "message": "The custom details came out beautifully and the whole piece felt thoughtful, cute, and genuinely handmade.",
+    "image": null,
+    "role": "Customer",
+    "organization": "Demo Customer",
+    "links": [
+      {
+        "display_text": "Read full note",
+        "url": "https://example.com/testimonial-note"
+      }
+    ],
+    "socials": []
+  },
+  {
+    "id": 4,
+    "name": "Zoya",
+    "message": "I loved how personal the finished piece felt. The colors, texture, and tiny details all worked together beautifully.",
+    "image": "/products/placeholder.png",
+    "role": null,
+    "organization": "Demo Gift Order",
+    "links": [],
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/",
+        "label": "Instagram"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Noor",
+    "message": "The order felt carefully made rather than generic, and that handmade quality was exactly what I was hoping for.",
+    "image": null,
+    "role": "Repeat Customer",
+    "organization": "Demo",
+    "links": [
+      {
+        "display_text": "Order story",
+        "url": "https://example.com/order-story"
+      },
+      {
+        "display_text": "Gift details",
+        "url": "https://example.com/gift-details"
+      }
+    ],
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/",
+        "label": "Instagram"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/",
+        "label": "TikTok"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Laiba",
+    "message": "Really neat finishing and a lovely handmade texture. It made a small gift feel much more thoughtful.",
+    "image": "/products/placeholder.png",
+    "role": null,
+    "organization": null,
+    "links": [
+      {
+        "display_text": "Demo link",
+        "url": "https://example.com/testimonial"
+      }
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/",
+        "label": "Facebook"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/",
+        "label": "YouTube"
+      },
+      {
+        "platform": "x",
+        "url": "https://x.com/",
+        "label": "X"
+      }
+    ]
+  }
+]
