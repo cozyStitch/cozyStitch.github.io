@@ -1,1 +1,0 @@
-import"./useLocale-P9tpzeGS.js";var e=()=>`en`;export{e as t};
