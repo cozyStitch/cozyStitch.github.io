@@ -1,0 +1,1 @@
+import{d as e}from"./useLocale-BPmAqhvJ.js";import{t}from"./LegalDocument-DItthfyb.js";var n=e();function r(){return(0,n.jsx)(t,{documentKey:`terms`})}export{r as default};
