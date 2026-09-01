@@ -5,7 +5,7 @@
     "slug": "mini-crochet-bow",
     "name": "Mini Crochet Bow",
     "category": "hair-accessories",
-    "price": 120,
+    "price": 90,
     "currency": "PKR",
     "shortDescription": "A tiny crochet bow for clips, ponytails, braids, and everyday hairstyles.",
     "description": "Mini Crochet Bow is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -178,7 +178,7 @@
       3,
       4
     ],
-    "originalPrice": 150
+    "originalPrice": 180
   },
   {
     "id": 2,
@@ -186,7 +186,7 @@
     "slug": "long-crochet-bow",
     "name": "Long Crochet Bow",
     "category": "hair-accessories",
-    "price": 180,
+    "price": 290,
     "currency": "PKR",
     "shortDescription": "Handmade long crochet bow with soft crochet texture and carefully finished details.",
     "description": "Long Crochet Bow is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -305,15 +305,15 @@
       3,
       4
     ],
-    "originalPrice": 220
+    "originalPrice": 580
   },
   {
     "id": 3,
     "itemNumber": 3,
     "slug": "crochet-hair-clip",
-    "name": "Crochet Hair Clip",
+    "name": "2 Crochet Hair Clips",
     "category": "hair-accessories",
-    "price": 120,
+    "price": 100,
     "currency": "PKR",
     "shortDescription": "Handmade crochet hair clip with soft crochet texture and carefully finished details.",
     "description": "Crochet Hair Clip is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -396,6 +396,19 @@
         "cardHeight": 640,
         "originalWidth": 1254,
         "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/06-mini-crochet-pin-1.webp",
+        "cardSrc": "/products/catalog/06-mini-crochet-pin-1-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "peach"
+        }
       }
     ],
     "availability": "available",
@@ -454,6 +467,13 @@
             "colors": [
               "#F2CF66"
             ]
+          },
+          {
+            "id": "peach",
+            "label": "Peach",
+            "colors": [
+              "#D88A75"
+            ]
           }
         ]
       }
@@ -472,7 +492,7 @@
       2,
       4
     ],
-    "originalPrice": 150
+    "originalPrice": 200
   },
   {
     "id": 4,
@@ -480,7 +500,7 @@
     "slug": "crochet-scrunchie",
     "name": "Crochet Scrunchie",
     "category": "hair-accessories",
-    "price": 160,
+    "price": 225,
     "currency": "PKR",
     "shortDescription": "Handmade crochet scrunchie with soft crochet texture and carefully finished details.",
     "description": "Crochet Scrunchie is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -599,7 +619,7 @@
       2,
       3
     ],
-    "originalPrice": 200
+    "originalPrice": 450
   },
   {
     "id": 5,
@@ -607,7 +627,7 @@
     "slug": "crochet-bandana",
     "name": "Crochet Bandana",
     "category": "hair-accessories",
-    "price": 350,
+    "price": 250,
     "currency": "PKR",
     "shortDescription": "A handmade crochet bandana with a soft fit and playful boutique look.",
     "description": "Crochet Bandana is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -668,63 +688,15 @@
       2,
       3
     ],
-    "originalPrice": 440
-  },
-  {
-    "id": 6,
-    "itemNumber": 6,
-    "slug": "mini-crochet-pin",
-    "name": "Mini Crochet Pin",
-    "category": "hair-accessories",
-    "price": 70,
-    "currency": "PKR",
-    "shortDescription": "A tiny crochet pin for adding a small handmade detail to your look.",
-    "description": "Mini Crochet Pin is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/06-mini-crochet-pin-1.webp",
-        "cardSrc": "/products/catalog/06-mini-crochet-pin-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": false,
-    "featured": false,
-    "tags": [
-      "pin",
-      "mini",
-      "tiny",
-      "accessory"
-    ],
-    "badges": [],
-    "variants": [],
-    "defaultVariants": {},
-    "relatedLimit": 3,
-    "estimatedDays": 1,
-    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      1,
-      2,
-      3
-    ],
-    "originalPrice": 90
+    "originalPrice": 500
   },
   {
     "id": 7,
-    "itemNumber": 7,
+    "itemNumber": 6,
     "slug": "crochet-phone-charm",
     "name": "Crochet Phone Charm",
     "category": "charms-hangings",
-    "price": 180,
+    "price": 60,
     "currency": "PKR",
     "shortDescription": "Handmade crochet phone charm with soft crochet texture and carefully finished details.",
     "description": "Crochet Phone Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -843,15 +815,15 @@
       9,
       10
     ],
-    "originalPrice": 220
+    "originalPrice": 120
   },
   {
     "id": 8,
-    "itemNumber": 8,
+    "itemNumber": 7,
     "slug": "strawberry-hanging-charm",
     "name": "Strawberry Hanging Charm",
     "category": "charms-hangings",
-    "price": 180,
+    "price": 110,
     "currency": "PKR",
     "shortDescription": "Handmade strawberry hanging charm with soft crochet texture and carefully finished details.",
     "description": "Strawberry Hanging Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -934,11 +906,11 @@
   },
   {
     "id": 9,
-    "itemNumber": 9,
+    "itemNumber": 8,
     "slug": "cherry-hanging-charm",
     "name": "Cherry Hanging Charm",
     "category": "charms-hangings",
-    "price": 180,
+    "price": 110,
     "currency": "PKR",
     "shortDescription": "Handmade cherry hanging charm with soft crochet texture and carefully finished details.",
     "description": "Cherry Hanging Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -982,11 +954,11 @@
   },
   {
     "id": 10,
-    "itemNumber": 10,
+    "itemNumber": 9,
     "slug": "pink-crochet-catcher-charm",
     "name": "Pink Crochet Catcher Charm",
     "category": "charms-hangings",
-    "price": 250,
+    "price": 330,
     "currency": "PKR",
     "shortDescription": "Handmade pink crochet catcher charm with soft crochet texture and carefully finished details.",
     "description": "Pink Crochet Catcher Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1056,15 +1028,15 @@
       8,
       9
     ],
-    "originalPrice": 310
+    "originalPrice": 660
   },
   {
     "id": 11,
-    "itemNumber": 11,
+    "itemNumber": 10,
     "slug": "mushroom-keychain",
     "name": "Mushroom Keychain",
     "category": "keychains",
-    "price": 200,
+    "price": 150,
     "currency": "PKR",
     "shortDescription": "Handmade mushroom keychain with soft crochet texture and carefully finished details.",
     "description": "Mushroom Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1127,15 +1099,15 @@
       13,
       14
     ],
-    "originalPrice": 250
+    "originalPrice": 300
   },
   {
     "id": 12,
-    "itemNumber": 12,
+    "itemNumber": 11,
     "slug": "bestie-mini-keychain-set",
     "name": "Bestie Mini Keychain Set",
     "category": "keychains",
-    "price": 300,
+    "price": 250,
     "currency": "PKR",
     "shortDescription": "Handmade bestie mini keychain set with soft crochet texture and carefully finished details.",
     "description": "Bestie Mini Keychain Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1206,15 +1178,15 @@
       13,
       14
     ],
-    "originalPrice": 380
+    "originalPrice": 500
   },
   {
     "id": 13,
-    "itemNumber": 13,
+    "itemNumber": 12,
     "slug": "star-keychain",
     "name": "Star Keychain",
     "category": "keychains",
-    "price": 140,
+    "price": 145,
     "currency": "PKR",
     "shortDescription": "Handmade star keychain with soft crochet texture and carefully finished details.",
     "description": "Star Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1284,15 +1256,15 @@
       12,
       14
     ],
-    "originalPrice": 180
+    "originalPrice": 290
   },
   {
     "id": 14,
-    "itemNumber": 14,
+    "itemNumber": 13,
     "slug": "ice-cream-keychain-set",
     "name": "Ice Cream Keychain Set",
     "category": "keychains",
-    "price": 320,
+    "price": 300,
     "currency": "PKR",
     "shortDescription": "Handmade ice cream keychain set with soft crochet texture and carefully finished details.",
     "description": "Ice Cream Keychain Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1343,15 +1315,15 @@
       12,
       13
     ],
-    "originalPrice": 400
+    "originalPrice": 600
   },
   {
     "id": 15,
-    "itemNumber": 15,
+    "itemNumber": 14,
     "slug": "cloud-keychain",
     "name": "Cloud Keychain",
     "category": "keychains",
-    "price": 160,
+    "price": 150,
     "currency": "PKR",
     "shortDescription": "Handmade cloud keychain with soft crochet texture and carefully finished details.",
     "description": "Cloud Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1421,15 +1393,15 @@
       12,
       13
     ],
-    "originalPrice": 200
+    "originalPrice": 300
   },
   {
     "id": 16,
-    "itemNumber": 16,
+    "itemNumber": 15,
     "slug": "mini-heart-keychain",
     "name": "Mini Heart Keychain",
     "category": "keychains",
-    "price": 140,
+    "price": 160,
     "currency": "PKR",
     "shortDescription": "Handmade mini heart keychain with soft crochet texture and carefully finished details.",
     "description": "Mini Heart Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1499,15 +1471,15 @@
       12,
       13
     ],
-    "originalPrice": 180
+    "originalPrice": 320
   },
   {
     "id": 17,
-    "itemNumber": 17,
+    "itemNumber": 16,
     "slug": "moon-keychain",
     "name": "Moon Keychain",
     "category": "keychains",
-    "price": 160,
+    "price": 145,
     "currency": "PKR",
     "shortDescription": "Handmade moon keychain with soft crochet texture and carefully finished details.",
     "description": "Moon Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1577,15 +1549,15 @@
       12,
       13
     ],
-    "originalPrice": 200
+    "originalPrice": 290
   },
   {
     "id": 18,
-    "itemNumber": 18,
+    "itemNumber": 17,
     "slug": "flower-keychain",
     "name": "Flower Keychain",
     "category": "keychains",
-    "price": 180,
+    "price": 150,
     "currency": "PKR",
     "shortDescription": "Handmade flower keychain with soft crochet texture and carefully finished details.",
     "description": "Flower Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1655,15 +1627,15 @@
       12,
       13
     ],
-    "originalPrice": 220
+    "originalPrice": 300
   },
   {
     "id": 19,
-    "itemNumber": 19,
+    "itemNumber": 18,
     "slug": "sunflower-keychain",
     "name": "Sunflower Keychain",
     "category": "keychains",
-    "price": 200,
+    "price": 170,
     "currency": "PKR",
     "shortDescription": "Handmade sunflower keychain with soft crochet texture and carefully finished details.",
     "description": "Sunflower Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1726,15 +1698,15 @@
       12,
       13
     ],
-    "originalPrice": 250
+    "originalPrice": 340
   },
   {
     "id": 20,
-    "itemNumber": 20,
+    "itemNumber": 19,
     "slug": "pink-bunny-keychain",
     "name": "Pink Bunny Keychain",
     "category": "keychains",
-    "price": 240,
+    "price": 200,
     "currency": "PKR",
     "shortDescription": "Handmade pink bunny keychain with soft crochet texture and carefully finished details.",
     "description": "Pink Bunny Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1804,15 +1776,15 @@
       12,
       13
     ],
-    "originalPrice": 300
+    "originalPrice": 400
   },
   {
     "id": 21,
-    "itemNumber": 21,
+    "itemNumber": 20,
     "slug": "butterfly-keychain",
     "name": "Butterfly Keychain",
     "category": "keychains",
-    "price": 180,
+    "price": 200,
     "currency": "PKR",
     "shortDescription": "Handmade butterfly keychain with soft crochet texture and carefully finished details.",
     "description": "Butterfly Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1882,15 +1854,15 @@
       12,
       13
     ],
-    "originalPrice": 220
+    "originalPrice": 400
   },
   {
     "id": 22,
-    "itemNumber": 22,
+    "itemNumber": 21,
     "slug": "strawberry-keychain",
     "name": "Strawberry Keychain",
     "category": "keychains",
-    "price": 180,
+    "price": 150,
     "currency": "PKR",
     "shortDescription": "Handmade strawberry keychain with soft crochet texture and carefully finished details.",
     "description": "Strawberry Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -1953,13 +1925,13 @@
       12,
       13
     ],
-    "originalPrice": 220
+    "originalPrice": 300
   },
   {
     "id": 23,
-    "itemNumber": 23,
+    "itemNumber": 22,
     "slug": "mini-heart-bracelet",
-    "name": "Mini Heart Bracelet",
+    "name": "1 Mini Heart Bracelet",
     "category": "bracelets",
     "price": 180,
     "currency": "PKR",
@@ -2031,15 +2003,15 @@
       25,
       26
     ],
-    "originalPrice": 220
+    "originalPrice": 360
   },
   {
     "id": 24,
-    "itemNumber": 24,
+    "itemNumber": 23,
     "slug": "mini-white-flower-bracelet",
-    "name": "Mini White Flower Bracelet",
+    "name": "1 Mini White Flower Bracelet",
     "category": "bracelets",
-    "price": 220,
+    "price": 190,
     "currency": "PKR",
     "shortDescription": "Handmade mini white flower bracelet with soft crochet texture and carefully finished details.",
     "description": "Mini White Flower Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2109,15 +2081,15 @@
       25,
       26
     ],
-    "originalPrice": 280
+    "originalPrice": 380
   },
   {
     "id": 25,
-    "itemNumber": 25,
+    "itemNumber": 24,
     "slug": "panda-bracelet",
     "name": "Panda Bracelet",
     "category": "bracelets",
-    "price": 250,
+    "price": 200,
     "currency": "PKR",
     "shortDescription": "Handmade panda bracelet with soft crochet texture and carefully finished details.",
     "description": "Panda Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2179,15 +2151,15 @@
       24,
       26
     ],
-    "originalPrice": 310
+    "originalPrice": 400
   },
   {
     "id": 26,
-    "itemNumber": 26,
+    "itemNumber": 25,
     "slug": "pink-crochet-bracelet",
     "name": "Pink Crochet Bracelet",
     "category": "bracelets",
-    "price": 180,
+    "price": 110,
     "currency": "PKR",
     "shortDescription": "Handmade pink crochet bracelet with soft crochet texture and carefully finished details.",
     "description": "Pink Crochet Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2253,11 +2225,11 @@
   },
   {
     "id": 27,
-    "itemNumber": 27,
+    "itemNumber": 26,
     "slug": "white-flower-bracelet",
     "name": "White Flower Bracelet",
     "category": "bracelets",
-    "price": 220,
+    "price": 140,
     "currency": "PKR",
     "shortDescription": "Handmade white flower bracelet with soft crochet texture and carefully finished details.",
     "description": "White Flower Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2313,11 +2285,11 @@
   },
   {
     "id": 28,
-    "itemNumber": 28,
+    "itemNumber": 27,
     "slug": "green-crochet-bracelet",
     "name": "Green Crochet Bracelet",
     "category": "bracelets",
-    "price": 180,
+    "price": 200,
     "currency": "PKR",
     "shortDescription": "Handmade green crochet bracelet with soft crochet texture and carefully finished details.",
     "description": "Green Crochet Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2368,15 +2340,15 @@
       24,
       25
     ],
-    "originalPrice": 220
+    "originalPrice": 400
   },
   {
     "id": 29,
-    "itemNumber": 29,
+    "itemNumber": 28,
     "slug": "bunny-bracelet",
     "name": "Bunny Bracelet",
     "category": "bracelets",
-    "price": 250,
+    "price": 220,
     "currency": "PKR",
     "shortDescription": "Handmade bunny bracelet with soft crochet texture and carefully finished details.",
     "description": "Bunny Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2428,15 +2400,15 @@
       24,
       25
     ],
-    "originalPrice": 310
+    "originalPrice": 440
   },
   {
     "id": 30,
-    "itemNumber": 30,
+    "itemNumber": 29,
     "slug": "beige-crochet-bracelet",
     "name": "Beige Crochet Bracelet",
     "category": "bracelets",
-    "price": 180,
+    "price": 210,
     "currency": "PKR",
     "shortDescription": "Handmade beige crochet bracelet with soft crochet texture and carefully finished details.",
     "description": "Beige Crochet Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2488,15 +2460,15 @@
       24,
       25
     ],
-    "originalPrice": 220
+    "originalPrice": 420
   },
   {
     "id": 31,
-    "itemNumber": 31,
+    "itemNumber": 30,
     "slug": "bee-pin-set",
     "name": "Bee Pin Set",
     "category": "pin-sets",
-    "price": 180,
+    "price": 150,
     "currency": "PKR",
     "shortDescription": "Handmade bee pin set with soft crochet texture and carefully finished details.",
     "description": "Bee Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2537,15 +2509,15 @@
       33,
       34
     ],
-    "originalPrice": 220
+    "originalPrice": 300
   },
   {
     "id": 32,
-    "itemNumber": 32,
+    "itemNumber": 31,
     "slug": "carrot-pin-set",
     "name": "Carrot Pin Set",
     "category": "pin-sets",
-    "price": 180,
+    "price": 160,
     "currency": "PKR",
     "shortDescription": "Handmade carrot pin set with soft crochet texture and carefully finished details.",
     "description": "Carrot Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2586,15 +2558,15 @@
       33,
       34
     ],
-    "originalPrice": 220
+    "originalPrice": 320
   },
   {
     "id": 33,
-    "itemNumber": 33,
+    "itemNumber": 32,
     "slug": "strawberry-pin-set",
     "name": "Strawberry Pin Set",
     "category": "pin-sets",
-    "price": 180,
+    "price": 170,
     "currency": "PKR",
     "shortDescription": "Handmade strawberry pin set with soft crochet texture and carefully finished details.",
     "description": "Strawberry Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2634,11 +2606,11 @@
       32,
       34
     ],
-    "originalPrice": 220
+    "originalPrice": 340
   },
   {
     "id": 34,
-    "itemNumber": 34,
+    "itemNumber": 33,
     "slug": "watermelon-pin-set",
     "name": "Watermelon Pin Set",
     "category": "pin-sets",
@@ -2682,15 +2654,15 @@
       32,
       33
     ],
-    "originalPrice": 220
+    "originalPrice": 360
   },
   {
     "id": 35,
-    "itemNumber": 35,
+    "itemNumber": 34,
     "slug": "custom-initial-letter-charm",
     "name": "Custom Initial Letter Charm",
     "category": "gift-corner",
-    "price": 250,
+    "price": 155,
     "currency": "PKR",
     "shortDescription": "A personalized crochet initial charm made with your chosen letter and color.",
     "description": "Custom Initial Letter Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2771,11 +2743,11 @@
   },
   {
     "id": 36,
-    "itemNumber": 36,
+    "itemNumber": 35,
     "slug": "mini-crochet-bag",
     "name": "Mini Crochet Bag",
     "category": "gift-corner",
-    "price": 350,
+    "price": 220,
     "currency": "PKR",
     "shortDescription": "Handmade mini crochet bag with soft crochet texture and carefully finished details.",
     "description": "Mini Crochet Bag is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2849,11 +2821,11 @@
   },
   {
     "id": 37,
-    "itemNumber": 37,
+    "itemNumber": 36,
     "slug": "mini-crochet-bouquet",
     "name": "Mini Crochet Bouquet",
     "category": "gift-corner",
-    "price": 350,
+    "price": 200,
     "currency": "PKR",
     "shortDescription": "Handmade mini crochet bouquet with soft crochet texture and carefully finished details.",
     "description": "Mini Crochet Bouquet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
@@ -2906,6 +2878,6 @@
       36,
       1
     ],
-    "originalPrice": 440
+    "originalPrice": 400
   }
 ]
