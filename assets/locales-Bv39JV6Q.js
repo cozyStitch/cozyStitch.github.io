@@ -1,0 +1,1 @@
+import"./useLocale-CYBEwQSz.js";var e=()=>`en`;export{e as t};

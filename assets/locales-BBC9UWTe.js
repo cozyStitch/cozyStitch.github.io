@@ -1,1 +1,0 @@
-import"./useLocale-DPy4DrqS.js";var e=()=>`en`;export{e as t};

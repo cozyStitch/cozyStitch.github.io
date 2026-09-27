@@ -1,1 +1,0 @@
-import{d as e}from"./useLocale-DPy4DrqS.js";import{t}from"./LegalDocument-DC8kiPK0.js";var n=e();function r(){return(0,n.jsx)(t,{documentKey:`terms`})}export{r as default};
