@@ -1,0 +1,1 @@
+import{d as e}from"./useLocale-ClcKoHy7.js";import{t}from"./LegalDocument-BqEaXz43.js";var n=e();function r(){return(0,n.jsx)(t,{documentKey:`privacy`})}export{r as default};

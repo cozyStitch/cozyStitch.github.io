@@ -2,14 +2,1403 @@
   {
     "id": 1,
     "itemNumber": 1,
+    "slug": "plain-mini-bag",
+    "name": "Plain Mini Bag",
+    "category": "gift-corner",
+    "price": 340,
+    "originalPrice": 400,
+    "currency": "PKR",
+    "shortDescription": "Handmade plain mini bag with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Plain Mini Bag is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-01-plain-mini-bag-01.webp",
+        "cardSrc": "/products/catalog/new-01-plain-mini-bag-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "green"
+        }
+      },
+      {
+        "src": "/products/catalog/new-01-plain-mini-bag-02.webp",
+        "cardSrc": "/products/catalog/new-01-plain-mini-bag-02-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "mustard"
+        }
+      },
+      {
+        "src": "/products/catalog/new-01-plain-mini-bag-03.webp",
+        "cardSrc": "/products/catalog/new-01-plain-mini-bag-03-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "pink"
+        }
+      },
+      {
+        "src": "/products/catalog/new-01-plain-mini-bag-04.webp",
+        "cardSrc": "/products/catalog/new-01-plain-mini-bag-04-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "purple"
+        }
+      },
+      {
+        "src": "/products/catalog/new-01-plain-mini-bag-05.webp",
+        "cardSrc": "/products/catalog/new-01-plain-mini-bag-05-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "sky-blue"
+        }
+      },
+      {
+        "src": "/products/catalog/new-01-plain-mini-bag-06.webp",
+        "cardSrc": "/products/catalog/new-01-plain-mini-bag-06-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "white"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": true,
+    "tags": [
+      "plain",
+      "mini",
+      "bag",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "green",
+            "label": "Green",
+            "colors": [
+              "#6FAE79"
+            ]
+          },
+          {
+            "id": "mustard",
+            "label": "Mustard",
+            "colors": [
+              "#C59A34"
+            ]
+          },
+          {
+            "id": "pink",
+            "label": "Pink",
+            "colors": [
+              "#E8A6B5"
+            ]
+          },
+          {
+            "id": "purple",
+            "label": "Purple",
+            "colors": [
+              "#9B79B6"
+            ]
+          },
+          {
+            "id": "sky-blue",
+            "label": "Sky Blue",
+            "colors": [
+              "#87CEEB"
+            ]
+          },
+          {
+            "id": "white",
+            "label": "White",
+            "colors": [
+              "#FFFFFF"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "green"
+    },
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 2,
+    "itemNumber": 2,
+    "slug": "mini-bag-with-two-flowers",
+    "name": "Mini Bag with Two Flowers",
+    "category": "gift-corner",
+    "price": 368,
+    "originalPrice": 460,
+    "currency": "PKR",
+    "shortDescription": "Handmade mini bag with two flowers with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Mini Bag with Two Flowers is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-02-mini-bag-with-two-flowers-01.webp",
+        "cardSrc": "/products/catalog/new-02-mini-bag-with-two-flowers-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": true,
+    "tags": [
+      "mini",
+      "bag",
+      "with",
+      "two",
+      "flowers",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 3,
+    "itemNumber": 3,
+    "slug": "black-kitty-mini-bag",
+    "name": "Black Kitty Mini Bag",
+    "category": "gift-corner",
+    "price": 349,
+    "originalPrice": 410,
+    "currency": "PKR",
+    "shortDescription": "Handmade black kitty mini bag with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Black Kitty Mini Bag is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-03-black-kitty-mini-bag-01.webp",
+        "cardSrc": "/products/catalog/new-03-black-kitty-mini-bag-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": true,
+    "tags": [
+      "black",
+      "kitty",
+      "mini",
+      "bag",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 4,
+    "itemNumber": 4,
+    "slug": "brown-kitty-mini-bag",
+    "name": "Brown Kitty Mini Bag",
+    "category": "gift-corner",
+    "price": 349,
+    "originalPrice": 410,
+    "currency": "PKR",
+    "shortDescription": "Handmade brown kitty mini bag with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Brown Kitty Mini Bag is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-04-brown-kitty-mini-bag-01.webp",
+        "cardSrc": "/products/catalog/new-04-brown-kitty-mini-bag-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": true,
+    "tags": [
+      "brown",
+      "kitty",
+      "mini",
+      "bag",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "itemNumber": 5,
+    "slug": "white-kitty-mini-bag",
+    "name": "White Kitty Mini Bag",
+    "category": "gift-corner",
+    "price": 344,
+    "originalPrice": 430,
+    "currency": "PKR",
+    "shortDescription": "Handmade white kitty mini bag with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "White Kitty Mini Bag is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-05-white-kitty-mini-bag-01.webp",
+        "cardSrc": "/products/catalog/new-05-white-kitty-mini-bag-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": true,
+    "tags": [
+      "white",
+      "kitty",
+      "mini",
+      "bag",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "itemNumber": 6,
+    "slug": "paw-mini-bag",
+    "name": "Paw Mini Bag",
+    "category": "gift-corner",
+    "price": 344,
+    "originalPrice": 430,
+    "currency": "PKR",
+    "shortDescription": "Handmade paw mini bag with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Paw Mini Bag is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-06-paw-mini-bag-01.webp",
+        "cardSrc": "/products/catalog/new-06-paw-mini-bag-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": true,
+    "tags": [
+      "paw",
+      "mini",
+      "bag",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "itemNumber": 7,
+    "slug": "frog-mini-bag",
+    "name": "Frog Mini Bag",
+    "category": "gift-corner",
+    "price": 336,
+    "originalPrice": 420,
+    "currency": "PKR",
+    "shortDescription": "Handmade frog mini bag with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Frog Mini Bag is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-07-frog-mini-bag-01.webp",
+        "cardSrc": "/products/catalog/new-07-frog-mini-bag-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": true,
+    "tags": [
+      "frog",
+      "mini",
+      "bag",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "itemNumber": 8,
+    "slug": "bunny-bag",
+    "name": "Bunny Bag",
+    "category": "gift-corner",
+    "price": 357,
+    "originalPrice": 420,
+    "currency": "PKR",
+    "shortDescription": "Handmade bunny bag with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Bunny Bag is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-08-bunny-bag-01.webp",
+        "cardSrc": "/products/catalog/new-08-bunny-bag-01-card.webp",
+        "width": 1086,
+        "height": 1448,
+        "cardWidth": 600,
+        "cardHeight": 800,
+        "originalWidth": 1086,
+        "originalHeight": 1448
+      },
+      {
+        "src": "/products/catalog/new-08-bunny-bag-02.webp",
+        "cardSrc": "/products/catalog/new-08-bunny-bag-02-card.webp",
+        "width": 1086,
+        "height": 1448,
+        "cardWidth": 600,
+        "cardHeight": 800,
+        "originalWidth": 1086,
+        "originalHeight": 1448
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": true,
+    "tags": [
+      "bunny",
+      "bag",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "itemNumber": 9,
+    "slug": "mini-pouch",
+    "name": "Mini Pouch",
+    "category": "gift-corner",
+    "price": 380,
+    "originalPrice": 380,
+    "currency": "PKR",
+    "shortDescription": "Handmade mini pouch with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Mini Pouch is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-09-mini-pouch-01.webp",
+        "cardSrc": "/products/catalog/new-09-mini-pouch-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": false,
+    "tags": [
+      "mini",
+      "pouch",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "itemNumber": 10,
+    "slug": "rose-bouquet",
+    "name": "Rose Bouquet",
+    "category": "gift-corner",
+    "price": 520,
+    "originalPrice": 650,
+    "currency": "PKR",
+    "shortDescription": "Handmade rose bouquet with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Rose Bouquet is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet gift corner designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-10-rose-bouquet-01.webp",
+        "cardSrc": "/products/catalog/new-10-rose-bouquet-01-card.webp",
+        "width": 1402,
+        "height": 1122,
+        "cardWidth": 640,
+        "cardHeight": 512,
+        "originalWidth": 1402,
+        "originalHeight": 1122,
+        "variantSelections": {
+          "color": "blue"
+        }
+      },
+      {
+        "src": "/products/catalog/new-10-rose-bouquet-02.webp",
+        "cardSrc": "/products/catalog/new-10-rose-bouquet-02-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "maroon"
+        }
+      },
+      {
+        "src": "/products/catalog/new-10-rose-bouquet-03.webp",
+        "cardSrc": "/products/catalog/new-10-rose-bouquet-03-card.webp",
+        "width": 1536,
+        "height": 1024,
+        "cardWidth": 640,
+        "cardHeight": 427,
+        "originalWidth": 1536,
+        "originalHeight": 1024,
+        "variantSelections": {
+          "color": "maroon"
+        }
+      },
+      {
+        "src": "/products/catalog/new-10-rose-bouquet-04.webp",
+        "cardSrc": "/products/catalog/new-10-rose-bouquet-04-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "pink"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "rose",
+      "bouquet",
+      "gift-corner"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "blue",
+            "label": "Blue",
+            "colors": [
+              "#6B8FD6"
+            ]
+          },
+          {
+            "id": "maroon",
+            "label": "Maroon",
+            "colors": [
+              "#7E2639"
+            ]
+          },
+          {
+            "id": "pink",
+            "label": "Pink",
+            "colors": [
+              "#E8A6B5"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "blue"
+    },
+    "relatedLimit": 3,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 11,
+    "itemNumber": 11,
+    "slug": "mini-bouquet-keychain",
+    "name": "Mini Bouquet Keychain",
+    "category": "keychains",
+    "price": 376,
+    "originalPrice": 470,
+    "currency": "PKR",
+    "shortDescription": "Handmade mini bouquet keychain with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Mini Bouquet Keychain is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet keychain designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-11-mini-bouquet-keychain-01.webp",
+        "cardSrc": "/products/catalog/new-11-mini-bouquet-keychain-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-11-mini-bouquet-keychain-02.webp",
+        "cardSrc": "/products/catalog/new-11-mini-bouquet-keychain-02-card.webp",
+        "width": 1536,
+        "height": 1024,
+        "cardWidth": 640,
+        "cardHeight": 427,
+        "originalWidth": 1536,
+        "originalHeight": 1024
+      },
+      {
+        "src": "/products/catalog/new-11-mini-bouquet-keychain-03.webp",
+        "cardSrc": "/products/catalog/new-11-mini-bouquet-keychain-03-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-11-mini-bouquet-keychain-04.webp",
+        "cardSrc": "/products/catalog/new-11-mini-bouquet-keychain-04-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": false,
+    "tags": [
+      "mini",
+      "bouquet",
+      "keychain",
+      "keychains"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "id": 12,
+    "itemNumber": 12,
+    "slug": "donut-keychain",
+    "name": "Donut Keychain",
+    "category": "keychains",
+    "price": 208,
+    "originalPrice": 260,
+    "currency": "PKR",
+    "shortDescription": "Handmade donut keychain with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Donut Keychain is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet keychain designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-12-donut-keychain-01.webp",
+        "cardSrc": "/products/catalog/new-12-donut-keychain-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "green"
+        }
+      },
+      {
+        "src": "/products/catalog/new-12-donut-keychain-02.webp",
+        "cardSrc": "/products/catalog/new-12-donut-keychain-02-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "color": "yellow"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "donut",
+      "keychain",
+      "keychains"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "green",
+            "label": "Green",
+            "colors": [
+              "#6FAE79"
+            ]
+          },
+          {
+            "id": "yellow",
+            "label": "Yellow",
+            "colors": [
+              "#F2CF66"
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "green"
+    },
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      11,
+      13,
+      14
+    ]
+  },
+  {
+    "id": 13,
+    "itemNumber": 13,
+    "slug": "momo-keychain",
+    "name": "Momo Keychain",
+    "category": "keychains",
+    "price": 238,
+    "originalPrice": 280,
+    "currency": "PKR",
+    "shortDescription": "Handmade momo keychain with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Momo Keychain is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet keychain designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-13-momo-keychain-01.webp",
+        "cardSrc": "/products/catalog/new-13-momo-keychain-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": false,
+    "tags": [
+      "momo",
+      "keychain",
+      "keychains"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      11,
+      12,
+      14
+    ]
+  },
+  {
+    "id": 14,
+    "itemNumber": 14,
+    "slug": "mushroom-keychain",
+    "name": "Mushroom Keychain",
+    "category": "keychains",
+    "price": 240,
+    "originalPrice": 300,
+    "currency": "PKR",
+    "shortDescription": "Handmade mushroom keychain with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Mushroom Keychain is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet keychain designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-14-mushroom-keychain-01.webp",
+        "cardSrc": "/products/catalog/new-14-mushroom-keychain-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": false,
+    "tags": [
+      "mushroom",
+      "keychain",
+      "keychains"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "id": 15,
+    "itemNumber": 15,
+    "slug": "rose-keychain",
+    "name": "Rose Keychain",
+    "category": "keychains",
+    "price": 261,
+    "originalPrice": 290,
+    "currency": "PKR",
+    "shortDescription": "Handmade rose keychain with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Rose Keychain is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet keychain designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-15-rose-keychain-01.webp",
+        "cardSrc": "/products/catalog/new-15-rose-keychain-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": false,
+    "tags": [
+      "rose",
+      "keychain",
+      "keychains"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "id": 16,
+    "itemNumber": 16,
+    "slug": "flower-keychain",
+    "name": "Flower Keychain",
+    "category": "keychains",
+    "price": 189,
+    "originalPrice": 210,
+    "currency": "PKR",
+    "shortDescription": "Handmade flower keychain with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Flower Keychain is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet keychain designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-16-flower-keychain-01.webp",
+        "cardSrc": "/products/catalog/new-16-flower-keychain-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "style": "pink"
+        }
+      },
+      {
+        "src": "/products/catalog/new-16-flower-keychain-02.webp",
+        "cardSrc": "/products/catalog/new-16-flower-keychain-02-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "style": "white"
+        }
+      },
+      {
+        "src": "/products/catalog/new-16-flower-keychain-03.webp",
+        "cardSrc": "/products/catalog/new-16-flower-keychain-03-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "style": "white-no-leaf"
+        }
+      },
+      {
+        "src": "/products/catalog/new-16-flower-keychain-04.webp",
+        "cardSrc": "/products/catalog/new-16-flower-keychain-04-card.webp",
+        "width": 1230,
+        "height": 1278,
+        "cardWidth": 640,
+        "cardHeight": 665,
+        "originalWidth": 1230,
+        "originalHeight": 1278,
+        "variantSelections": {
+          "style": "pink-leaf"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "flower",
+      "keychain",
+      "keychains"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "style",
+        "label": "Style",
+        "options": [
+          {
+            "id": "pink",
+            "label": "Pink",
+            "price": 170
+          },
+          {
+            "id": "white",
+            "label": "White",
+            "price": 180
+          },
+          {
+            "id": "white-no-leaf",
+            "label": "White — No Leaf",
+            "price": 170
+          },
+          {
+            "id": "pink-leaf",
+            "label": "Pink Flower + Leaf",
+            "price": 180
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "style": "pink"
+    },
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "id": 17,
+    "itemNumber": 17,
+    "slug": "sunflower-keychain",
+    "name": "Sunflower Keychain",
+    "category": "keychains",
+    "price": 252,
+    "originalPrice": 280,
+    "currency": "PKR",
+    "shortDescription": "Handmade sunflower keychain with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Sunflower Keychain is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet keychain designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-17-sunflower-keychain-01.webp",
+        "cardSrc": "/products/catalog/new-17-sunflower-keychain-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "style": "sunflower"
+        }
+      },
+      {
+        "src": "/products/catalog/new-17-sunflower-keychain-02.webp",
+        "cardSrc": "/products/catalog/new-17-sunflower-keychain-02-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "style": "sunflower-leaf"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "sunflower",
+      "keychain",
+      "keychains"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "style",
+        "label": "Style",
+        "options": [
+          {
+            "id": "sunflower",
+            "label": "Sunflower",
+            "price": 230
+          },
+          {
+            "id": "sunflower-leaf",
+            "label": "Sunflower + Leaf",
+            "price": 240
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "style": "sunflower"
+    },
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "id": 18,
+    "itemNumber": 18,
+    "slug": "flower-bracelet",
+    "name": "Flower Bracelet",
+    "category": "bracelets",
+    "price": 218,
+    "originalPrice": 290,
+    "currency": "PKR",
+    "shortDescription": "Handmade flower bracelet with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "Flower Bracelet is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet bracelet designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-18-flower-bracelet-01.webp",
+        "cardSrc": "/products/catalog/new-18-flower-bracelet-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "style": "pink-flower"
+        }
+      },
+      {
+        "src": "/products/catalog/new-18-flower-bracelet-02.webp",
+        "cardSrc": "/products/catalog/new-18-flower-bracelet-02-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "style": "white-flower"
+        }
+      },
+      {
+        "src": "/products/catalog/new-18-flower-bracelet-03.webp",
+        "cardSrc": "/products/catalog/new-18-flower-bracelet-03-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254,
+        "variantSelections": {
+          "style": "sunflower"
+        }
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "tags": [
+      "flower",
+      "bracelet",
+      "bracelets"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [
+      {
+        "type": "style",
+        "label": "Style",
+        "options": [
+          {
+            "id": "pink-flower",
+            "label": "Pink Flower",
+            "price": 200
+          },
+          {
+            "id": "white-flower",
+            "label": "White Flower",
+            "price": 200
+          },
+          {
+            "id": "sunflower",
+            "label": "Sunflower",
+            "price": 250
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "style": "pink-flower"
+    },
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 19,
+    "itemNumber": 19,
+    "slug": "white-flower-hair-tie",
+    "name": "White Flower Hair Tie",
+    "category": "hair-accessories",
+    "price": 246,
+    "originalPrice": 280,
+    "currency": "PKR",
+    "shortDescription": "Handmade white flower hair tie with CozyStitch's soft crochet texture and carefully finished details.",
+    "description": "White Flower Hair Tie is handmade by CozyStitch with careful stitching and a playful, giftable finish. Each piece is prepared with attention to shape, texture, and small finishing details.",
+    "about": "A handmade crochet hair accessorie designed in CozyStitch's colorful, small-batch style.",
+    "images": [
+      {
+        "src": "/products/catalog/new-19-white-flower-hair-tie-01.webp",
+        "cardSrc": "/products/catalog/new-19-white-flower-hair-tie-01-card.webp",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 640,
+        "cardHeight": 640,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "availability": "made-to-order",
+    "customizable": false,
+    "featured": false,
+    "tags": [
+      "white",
+      "flower",
+      "hair",
+      "tie",
+      "hair-accessories"
+    ],
+    "badges": [
+      "New"
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "relatedLimit": 3,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
+    "sales": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "relatedProductIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 20,
+    "itemNumber": 20,
     "slug": "mini-crochet-bow",
     "name": "Mini Crochet Bow",
     "category": "hair-accessories",
-    "price": 90,
-    "currency": "PKR",
     "shortDescription": "A tiny crochet bow for clips, ponytails, braids, and everyday hairstyles.",
     "description": "Mini Crochet Bow is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "bow",
+      "hair",
+      "mini",
+      "cute",
+      "girls"
+    ],
+    "badges": [],
+    "price": 225,
+    "originalPrice": 300,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/01-mini-crochet-bow-1.webp",
@@ -103,17 +1492,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "bow",
-      "hair",
-      "mini",
-      "cute",
-      "girls"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -167,30 +1545,40 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      2,
-      3,
-      4
+      21,
+      22,
+      23
     ],
-    "originalPrice": 180
+    "relatedLimit": 3
   },
   {
-    "id": 2,
-    "itemNumber": 2,
+    "id": 21,
+    "itemNumber": 21,
     "slug": "long-crochet-bow",
     "name": "Long Crochet Bow",
     "category": "hair-accessories",
-    "price": 290,
-    "currency": "PKR",
     "shortDescription": "Handmade long crochet bow with soft crochet texture and carefully finished details.",
     "description": "Long Crochet Bow is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "bow",
+      "long-bow",
+      "hair",
+      "statement"
+    ],
+    "badges": [],
+    "price": 510,
+    "originalPrice": 600,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/02-long-crochet-bow-1.webp",
@@ -245,16 +1633,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "bow",
-      "long-bow",
-      "hair",
-      "statement"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -294,30 +1672,40 @@
     "defaultVariants": {
       "color": "yellow"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      1,
-      3,
-      4
+      20,
+      22,
+      23
     ],
-    "originalPrice": 580
+    "relatedLimit": 3
   },
   {
-    "id": 3,
-    "itemNumber": 3,
+    "id": 22,
+    "itemNumber": 22,
     "slug": "crochet-hair-clip",
     "name": "2 Crochet Hair Clips",
     "category": "hair-accessories",
-    "price": 100,
-    "currency": "PKR",
     "shortDescription": "Handmade crochet hair clip with soft crochet texture and carefully finished details.",
     "description": "Crochet Hair Clip is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "clip",
+      "hair",
+      "crochet",
+      "colorful"
+    ],
+    "badges": [],
+    "price": 117,
+    "originalPrice": 130,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/03-crochet-hair-clip-1.webp",
@@ -411,16 +1799,6 @@
         }
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "clip",
-      "hair",
-      "crochet",
-      "colorful"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -481,30 +1859,40 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      1,
-      2,
-      4
+      20,
+      21,
+      23
     ],
-    "originalPrice": 200
+    "relatedLimit": 3
   },
   {
-    "id": 4,
-    "itemNumber": 4,
+    "id": 23,
+    "itemNumber": 23,
     "slug": "crochet-scrunchie",
     "name": "Crochet Scrunchie",
     "category": "hair-accessories",
-    "price": 225,
-    "currency": "PKR",
     "shortDescription": "Handmade crochet scrunchie with soft crochet texture and carefully finished details.",
     "description": "Crochet Scrunchie is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "scrunchie",
+      "hair",
+      "soft",
+      "everyday"
+    ],
+    "badges": [],
+    "price": 243,
+    "originalPrice": 270,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/04-crochet-scrunchie-1.webp",
@@ -559,16 +1947,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "scrunchie",
-      "hair",
-      "soft",
-      "everyday"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -608,30 +1986,40 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      1,
-      2,
-      3
+      20,
+      21,
+      22
     ],
-    "originalPrice": 450
+    "relatedLimit": 3
   },
   {
-    "id": 5,
-    "itemNumber": 5,
+    "id": 24,
+    "itemNumber": 24,
     "slug": "crochet-bandana",
     "name": "Crochet Bandana",
     "category": "hair-accessories",
-    "price": 250,
-    "currency": "PKR",
     "shortDescription": "A handmade crochet bandana with a soft fit and playful boutique look.",
     "description": "Crochet Bandana is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "bandana",
+      "hair",
+      "accessory",
+      "statement"
+    ],
+    "badges": [],
+    "price": 522,
+    "originalPrice": 580,
+    "currency": "PKR",
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 4,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 4 days.",
     "images": [
       {
         "src": "/products/catalog/05-crochet-bandana-1.webp",
@@ -654,16 +2042,6 @@
         "originalHeight": 1402
       }
     ],
-    "availability": "made-to-order",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "bandana",
-      "hair",
-      "accessory",
-      "statement"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "size",
@@ -677,30 +2055,40 @@
     "defaultVariants": {
       "size": "Teen / Adult"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      1,
-      2,
-      3
+      20,
+      21,
+      22
     ],
-    "originalPrice": 500
+    "relatedLimit": 3
   },
   {
-    "id": 7,
-    "itemNumber": 6,
+    "id": 25,
+    "itemNumber": 25,
     "slug": "crochet-phone-charm",
     "name": "Crochet Phone Charm",
     "category": "charms-hangings",
-    "price": 60,
-    "currency": "PKR",
     "shortDescription": "Handmade crochet phone charm with soft crochet texture and carefully finished details.",
     "description": "Crochet Phone Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "phone-charm",
+      "hanging",
+      "colorful",
+      "cute"
+    ],
+    "badges": [],
+    "price": 171,
+    "originalPrice": 190,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/07-crochet-phone-charm-1.webp",
@@ -755,16 +2143,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "phone-charm",
-      "hanging",
-      "colorful",
-      "cute"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -804,30 +2182,40 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      8,
-      9,
-      10
+      26,
+      27,
+      28
     ],
-    "originalPrice": 120
+    "relatedLimit": 3
   },
   {
-    "id": 8,
-    "itemNumber": 7,
+    "id": 26,
+    "itemNumber": 26,
     "slug": "strawberry-hanging-charm",
     "name": "Strawberry Hanging Charm",
     "category": "charms-hangings",
-    "price": 110,
-    "currency": "PKR",
     "shortDescription": "Handmade strawberry hanging charm with soft crochet texture and carefully finished details.",
     "description": "Strawberry Hanging Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "strawberry",
+      "fruit",
+      "charm",
+      "hanging"
+    ],
+    "badges": [],
+    "price": 288,
+    "originalPrice": 320,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/08-strawberry-hanging-charm-1.webp",
@@ -856,16 +2244,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "strawberry",
-      "fruit",
-      "charm",
-      "hanging"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -891,30 +2269,40 @@
     "defaultVariants": {
       "color": "red"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      7,
-      9,
-      10
+      25,
+      27,
+      28
     ],
-    "originalPrice": 220
+    "relatedLimit": 3
   },
   {
-    "id": 9,
-    "itemNumber": 8,
+    "id": 27,
+    "itemNumber": 27,
     "slug": "cherry-hanging-charm",
     "name": "Cherry Hanging Charm",
     "category": "charms-hangings",
-    "price": 110,
-    "currency": "PKR",
     "shortDescription": "Handmade cherry hanging charm with soft crochet texture and carefully finished details.",
     "description": "Cherry Hanging Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "cherry",
+      "fruit",
+      "charm",
+      "hanging"
+    ],
+    "badges": [],
+    "price": 288,
+    "originalPrice": 320,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": false,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/09-cherry-hanging-charm-1.webp",
@@ -927,42 +2315,42 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "available",
-    "customizable": false,
-    "featured": false,
-    "tags": [
-      "cherry",
-      "fruit",
-      "charm",
-      "hanging"
-    ],
-    "badges": [],
     "variants": [],
     "defaultVariants": {},
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      7,
-      8,
-      10
+      25,
+      26,
+      28
     ],
-    "originalPrice": 220
+    "relatedLimit": 3
   },
   {
-    "id": 10,
-    "itemNumber": 9,
+    "id": 28,
+    "itemNumber": 28,
     "slug": "pink-crochet-catcher-charm",
     "name": "Pink Crochet Catcher Charm",
     "category": "charms-hangings",
-    "price": 330,
-    "currency": "PKR",
     "shortDescription": "Handmade pink crochet catcher charm with soft crochet texture and carefully finished details.",
     "description": "Pink Crochet Catcher Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "pink",
+      "hanging",
+      "charm",
+      "decorative"
+    ],
+    "badges": [],
+    "price": 612,
+    "originalPrice": 680,
+    "currency": "PKR",
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
     "images": [
       {
         "src": "/products/catalog/10-pink-crochet-catcher-charm-1.webp",
@@ -975,16 +2363,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "made-to-order",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "pink",
-      "hanging",
-      "charm",
-      "decorative"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -1017,101 +2395,41 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      7,
-      8,
-      9
+      25,
+      26,
+      27
     ],
-    "originalPrice": 660
+    "relatedLimit": 3
   },
   {
-    "id": 11,
-    "itemNumber": 10,
-    "slug": "mushroom-keychain",
-    "name": "Mushroom Keychain",
-    "category": "keychains",
-    "price": 150,
-    "currency": "PKR",
-    "shortDescription": "Handmade mushroom keychain with soft crochet texture and carefully finished details.",
-    "description": "Mushroom Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/11-mushroom-keychain-1.webp",
-        "cardSrc": "/products/catalog/11-mushroom-keychain-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "mushroom",
-      "keychain",
-      "character",
-      "cute"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "red",
-            "label": "Red",
-            "colors": [
-              "#C84B4B"
-            ]
-          },
-          {
-            "id": "pink",
-            "label": "Pink",
-            "colors": [
-              "#E8A6B5"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "red"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      12,
-      13,
-      14
-    ],
-    "originalPrice": 300
-  },
-  {
-    "id": 12,
-    "itemNumber": 11,
+    "id": 29,
+    "itemNumber": 29,
     "slug": "bestie-mini-keychain-set",
     "name": "Bestie Mini Keychain Set",
     "category": "keychains",
-    "price": 250,
-    "currency": "PKR",
     "shortDescription": "Handmade bestie mini keychain set with soft crochet texture and carefully finished details.",
     "description": "Bestie Mini Keychain Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "besties",
+      "keychain",
+      "set",
+      "gift",
+      "friendship"
+    ],
+    "badges": [],
+    "price": 468,
+    "originalPrice": 520,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/12-bestie-mini-keychain-set-1.webp",
@@ -1124,17 +2442,6 @@
         "originalHeight": 1402
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "besties",
-      "keychain",
-      "set",
-      "gift",
-      "friendship"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -1167,108 +2474,40 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
+      30,
       11,
-      13,
-      14
+      12
     ],
-    "originalPrice": 500
+    "relatedLimit": 3
   },
   {
-    "id": 13,
-    "itemNumber": 12,
-    "slug": "star-keychain",
-    "name": "Star Keychain",
-    "category": "keychains",
-    "price": 145,
-    "currency": "PKR",
-    "shortDescription": "Handmade star keychain with soft crochet texture and carefully finished details.",
-    "description": "Star Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/13-star-keychain-1.webp",
-        "cardSrc": "/products/catalog/13-star-keychain-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "star",
-      "keychain",
-      "mini",
-      "cute"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "yellow",
-            "label": "Yellow",
-            "colors": [
-              "#F2CF66"
-            ]
-          },
-          {
-            "id": "pink",
-            "label": "Pink",
-            "colors": [
-              "#E8A6B5"
-            ]
-          },
-          {
-            "id": "blue",
-            "label": "Blue",
-            "colors": [
-              "#6B8FD6"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "yellow"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      11,
-      12,
-      14
-    ],
-    "originalPrice": 290
-  },
-  {
-    "id": 14,
-    "itemNumber": 13,
+    "id": 30,
+    "itemNumber": 30,
     "slug": "ice-cream-keychain-set",
     "name": "Ice Cream Keychain Set",
     "category": "keychains",
-    "price": 300,
-    "currency": "PKR",
     "shortDescription": "Handmade ice cream keychain set with soft crochet texture and carefully finished details.",
     "description": "Ice Cream Keychain Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "ice-cream",
+      "keychain",
+      "set",
+      "gift"
+    ],
+    "badges": [],
+    "price": 558,
+    "originalPrice": 620,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/14-ice-cream-keychain-set-1.webp",
@@ -1281,16 +2520,6 @@
         "originalHeight": 1402
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "ice-cream",
-      "keychain",
-      "set",
-      "gift"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "set-style",
@@ -1304,264 +2533,40 @@
     "defaultVariants": {
       "set-style": "As Shown"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
+      29,
       11,
-      12,
-      13
+      12
     ],
-    "originalPrice": 600
+    "relatedLimit": 3
   },
   {
-    "id": 15,
-    "itemNumber": 14,
-    "slug": "cloud-keychain",
-    "name": "Cloud Keychain",
-    "category": "keychains",
-    "price": 150,
-    "currency": "PKR",
-    "shortDescription": "Handmade cloud keychain with soft crochet texture and carefully finished details.",
-    "description": "Cloud Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/15-cloud-keychain-1.webp",
-        "cardSrc": "/products/catalog/15-cloud-keychain-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "cloud",
-      "keychain",
-      "soft",
-      "cute"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "white",
-            "label": "White",
-            "colors": [
-              "#FFFFFF"
-            ]
-          },
-          {
-            "id": "blue",
-            "label": "Blue",
-            "colors": [
-              "#6B8FD6"
-            ]
-          },
-          {
-            "id": "pink",
-            "label": "Pink",
-            "colors": [
-              "#E8A6B5"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "white"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      11,
-      12,
-      13
-    ],
-    "originalPrice": 300
-  },
-  {
-    "id": 16,
-    "itemNumber": 15,
-    "slug": "mini-heart-keychain",
-    "name": "Mini Heart Keychain",
-    "category": "keychains",
-    "price": 160,
-    "currency": "PKR",
-    "shortDescription": "Handmade mini heart keychain with soft crochet texture and carefully finished details.",
-    "description": "Mini Heart Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/16-mini-heart-keychain-1.webp",
-        "cardSrc": "/products/catalog/16-mini-heart-keychain-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "heart",
-      "keychain",
-      "mini",
-      "gift"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "pink",
-            "label": "Pink",
-            "colors": [
-              "#E8A6B5"
-            ]
-          },
-          {
-            "id": "red",
-            "label": "Red",
-            "colors": [
-              "#C84B4B"
-            ]
-          },
-          {
-            "id": "white",
-            "label": "White",
-            "colors": [
-              "#FFFFFF"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "pink"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      11,
-      12,
-      13
-    ],
-    "originalPrice": 320
-  },
-  {
-    "id": 17,
-    "itemNumber": 16,
-    "slug": "moon-keychain",
-    "name": "Moon Keychain",
-    "category": "keychains",
-    "price": 145,
-    "currency": "PKR",
-    "shortDescription": "Handmade moon keychain with soft crochet texture and carefully finished details.",
-    "description": "Moon Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/17-moon-keychain-1.webp",
-        "cardSrc": "/products/catalog/17-moon-keychain-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "moon",
-      "keychain",
-      "celestial",
-      "cute"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "yellow",
-            "label": "Yellow",
-            "colors": [
-              "#F2CF66"
-            ]
-          },
-          {
-            "id": "white",
-            "label": "White",
-            "colors": [
-              "#FFFFFF"
-            ]
-          },
-          {
-            "id": "blue",
-            "label": "Blue",
-            "colors": [
-              "#6B8FD6"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "yellow"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      11,
-      12,
-      13
-    ],
-    "originalPrice": 290
-  },
-  {
-    "id": 18,
-    "itemNumber": 17,
-    "slug": "flower-keychain",
+    "id": 31,
+    "itemNumber": 31,
+    "slug": "flower-keychain-classic",
     "name": "Flower Keychain",
     "category": "keychains",
-    "price": 150,
-    "currency": "PKR",
     "shortDescription": "Handmade flower keychain with soft crochet texture and carefully finished details.",
     "description": "Flower Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "flower",
+      "keychain",
+      "floral",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 160,
+    "originalPrice": 320,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/18-flower-keychain-1.webp",
@@ -1574,16 +2579,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "flower",
-      "keychain",
-      "floral",
-      "handmade"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -1616,257 +2611,40 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
+      29,
       11,
-      12,
-      13
+      12
     ],
-    "originalPrice": 300
+    "relatedLimit": 3
   },
   {
-    "id": 19,
-    "itemNumber": 18,
-    "slug": "sunflower-keychain",
-    "name": "Sunflower Keychain",
-    "category": "keychains",
-    "price": 170,
-    "currency": "PKR",
-    "shortDescription": "Handmade sunflower keychain with soft crochet texture and carefully finished details.",
-    "description": "Sunflower Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/19-sunflower-keychain-1.webp",
-        "cardSrc": "/products/catalog/19-sunflower-keychain-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "sunflower",
-      "flower",
-      "keychain",
-      "yellow"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "yellow",
-            "label": "Yellow",
-            "colors": [
-              "#F2CF66"
-            ]
-          },
-          {
-            "id": "orange",
-            "label": "Orange",
-            "colors": [
-              "#E98A3B"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "yellow"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      11,
-      12,
-      13
-    ],
-    "originalPrice": 340
-  },
-  {
-    "id": 20,
-    "itemNumber": 19,
-    "slug": "pink-bunny-keychain",
-    "name": "Pink Bunny Keychain",
-    "category": "keychains",
-    "price": 200,
-    "currency": "PKR",
-    "shortDescription": "Handmade pink bunny keychain with soft crochet texture and carefully finished details.",
-    "description": "Pink Bunny Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/20-pink-bunny-keychain-1.webp",
-        "cardSrc": "/products/catalog/20-pink-bunny-keychain-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "bunny",
-      "character",
-      "keychain",
-      "pink"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "pink",
-            "label": "Pink",
-            "colors": [
-              "#E8A6B5"
-            ]
-          },
-          {
-            "id": "white",
-            "label": "White",
-            "colors": [
-              "#FFFFFF"
-            ]
-          },
-          {
-            "id": "purple",
-            "label": "Purple",
-            "colors": [
-              "#9B79B6"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "pink"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      11,
-      12,
-      13
-    ],
-    "originalPrice": 400
-  },
-  {
-    "id": 21,
-    "itemNumber": 20,
-    "slug": "butterfly-keychain",
-    "name": "Butterfly Keychain",
-    "category": "keychains",
-    "price": 200,
-    "currency": "PKR",
-    "shortDescription": "Handmade butterfly keychain with soft crochet texture and carefully finished details.",
-    "description": "Butterfly Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/21-butterfly-keychain-1.webp",
-        "cardSrc": "/products/catalog/21-butterfly-keychain-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "butterfly",
-      "keychain",
-      "nature",
-      "cute"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "pink",
-            "label": "Pink",
-            "colors": [
-              "#E8A6B5"
-            ]
-          },
-          {
-            "id": "purple",
-            "label": "Purple",
-            "colors": [
-              "#9B79B6"
-            ]
-          },
-          {
-            "id": "blue",
-            "label": "Blue",
-            "colors": [
-              "#6B8FD6"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "pink"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      11,
-      12,
-      13
-    ],
-    "originalPrice": 400
-  },
-  {
-    "id": 22,
-    "itemNumber": 21,
+    "id": 32,
+    "itemNumber": 32,
     "slug": "strawberry-keychain",
     "name": "Strawberry Keychain",
     "category": "keychains",
-    "price": 150,
-    "currency": "PKR",
     "shortDescription": "Handmade strawberry keychain with soft crochet texture and carefully finished details.",
     "description": "Strawberry Keychain is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "strawberry",
+      "fruit",
+      "keychain",
+      "red"
+    ],
+    "badges": [],
+    "price": 160,
+    "originalPrice": 320,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/22-strawberry-keychain-1.webp",
@@ -1879,16 +2657,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "strawberry",
-      "fruit",
-      "keychain",
-      "red"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -1914,565 +2682,41 @@
     "defaultVariants": {
       "color": "red"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
+      29,
       11,
-      12,
-      13
+      12
     ],
-    "originalPrice": 300
+    "relatedLimit": 3
   },
   {
-    "id": 23,
-    "itemNumber": 22,
-    "slug": "mini-heart-bracelet",
-    "name": "1 Mini Heart Bracelet",
-    "category": "bracelets",
-    "price": 180,
-    "currency": "PKR",
-    "shortDescription": "Handmade mini heart bracelet with soft crochet texture and carefully finished details.",
-    "description": "Mini Heart Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
+    "id": 33,
+    "itemNumber": 33,
+    "slug": "bee-pin-set",
+    "name": "Bee Pin Set",
+    "category": "pin-sets",
+    "shortDescription": "Handmade bee pin set with soft crochet texture and carefully finished details.",
+    "description": "Bee Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/23-mini-heart-bracelet-1.webp",
-        "cardSrc": "/products/catalog/23-mini-heart-bracelet-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
     "tags": [
-      "bracelet",
-      "heart",
+      "bee",
+      "pins",
+      "set",
       "mini",
       "besties"
     ],
     "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "pink",
-            "label": "Pink",
-            "colors": [
-              "#E8A6B5"
-            ]
-          },
-          {
-            "id": "red",
-            "label": "Red",
-            "colors": [
-              "#C84B4B"
-            ]
-          },
-          {
-            "id": "white",
-            "label": "White",
-            "colors": [
-              "#FFFFFF"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "pink"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      24,
-      25,
-      26
-    ],
-    "originalPrice": 360
-  },
-  {
-    "id": 24,
-    "itemNumber": 23,
-    "slug": "mini-white-flower-bracelet",
-    "name": "1 Mini White Flower Bracelet",
-    "category": "bracelets",
-    "price": 190,
+    "price": 160,
+    "originalPrice": 320,
     "currency": "PKR",
-    "shortDescription": "Handmade mini white flower bracelet with soft crochet texture and carefully finished details.",
-    "description": "Mini White Flower Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/24-mini-white-flower-bracelet-1.webp",
-        "cardSrc": "/products/catalog/24-mini-white-flower-bracelet-1-card.webp",
-        "width": 1448,
-        "height": 1086,
-        "cardWidth": 640,
-        "cardHeight": 480,
-        "originalWidth": 1448,
-        "originalHeight": 1086
-      }
-    ],
     "availability": "available",
-    "customizable": true,
+    "customizable": false,
     "featured": false,
-    "tags": [
-      "bracelet",
-      "flowers",
-      "white",
-      "floral"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "color",
-        "label": "Color",
-        "options": [
-          {
-            "id": "white",
-            "label": "White",
-            "colors": [
-              "#FFFFFF"
-            ]
-          },
-          {
-            "id": "pink",
-            "label": "Pink",
-            "colors": [
-              "#E8A6B5"
-            ]
-          },
-          {
-            "id": "yellow",
-            "label": "Yellow",
-            "colors": [
-              "#F2CF66"
-            ]
-          }
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "color": "white"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      23,
-      25,
-      26
-    ],
-    "originalPrice": 380
-  },
-  {
-    "id": 25,
-    "itemNumber": 24,
-    "slug": "panda-bracelet",
-    "name": "Panda Bracelet",
-    "category": "bracelets",
-    "price": 200,
-    "currency": "PKR",
-    "shortDescription": "Handmade panda bracelet with soft crochet texture and carefully finished details.",
-    "description": "Panda Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/25-panda-bracelet-1.webp",
-        "cardSrc": "/products/catalog/25-panda-bracelet-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      },
-      {
-        "src": "/products/catalog/25-panda-bracelet-2.webp",
-        "cardSrc": "/products/catalog/25-panda-bracelet-2-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "panda",
-      "bracelet",
-      "character",
-      "cute"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "size",
-        "label": "Size",
-        "options": [
-          "Small",
-          "Medium",
-          "Large"
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "size": "Medium"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      23,
-      24,
-      26
-    ],
-    "originalPrice": 400
-  },
-  {
-    "id": 26,
-    "itemNumber": 25,
-    "slug": "pink-crochet-bracelet",
-    "name": "Pink Crochet Bracelet",
-    "category": "bracelets",
-    "price": 110,
-    "currency": "PKR",
-    "shortDescription": "Handmade pink crochet bracelet with soft crochet texture and carefully finished details.",
-    "description": "Pink Crochet Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/26-pink-crochet-bracelet-1.webp",
-        "cardSrc": "/products/catalog/26-pink-crochet-bracelet-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      },
-      {
-        "src": "/products/catalog/26-pink-crochet-bracelet-2.webp",
-        "cardSrc": "/products/catalog/26-pink-crochet-bracelet-2-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "bracelet",
-      "pink",
-      "friendship",
-      "cute"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "size",
-        "label": "Size",
-        "options": [
-          "Small",
-          "Medium",
-          "Large"
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "size": "Medium"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      23,
-      24,
-      25
-    ],
-    "originalPrice": 220
-  },
-  {
-    "id": 27,
-    "itemNumber": 26,
-    "slug": "white-flower-bracelet",
-    "name": "White Flower Bracelet",
-    "category": "bracelets",
-    "price": 140,
-    "currency": "PKR",
-    "shortDescription": "Handmade white flower bracelet with soft crochet texture and carefully finished details.",
-    "description": "White Flower Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/27-white-flower-bracelet-1.webp",
-        "cardSrc": "/products/catalog/27-white-flower-bracelet-1-card.webp",
-        "width": 1448,
-        "height": 1086,
-        "cardWidth": 640,
-        "cardHeight": 480,
-        "originalWidth": 1448,
-        "originalHeight": 1086
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "bracelet",
-      "flower",
-      "white",
-      "floral"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "size",
-        "label": "Size",
-        "options": [
-          "Small",
-          "Medium",
-          "Large"
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "size": "Medium"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      23,
-      24,
-      25
-    ],
-    "originalPrice": 280
-  },
-  {
-    "id": 28,
-    "itemNumber": 27,
-    "slug": "green-crochet-bracelet",
-    "name": "Green Crochet Bracelet",
-    "category": "bracelets",
-    "price": 200,
-    "currency": "PKR",
-    "shortDescription": "Handmade green crochet bracelet with soft crochet texture and carefully finished details.",
-    "description": "Green Crochet Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/28-green-crochet-bracelet-1.webp",
-        "cardSrc": "/products/catalog/28-green-crochet-bracelet-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "bracelet",
-      "green",
-      "friendship"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "size",
-        "label": "Size",
-        "options": [
-          "Small",
-          "Medium",
-          "Large"
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "size": "Medium"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      23,
-      24,
-      25
-    ],
-    "originalPrice": 400
-  },
-  {
-    "id": 29,
-    "itemNumber": 28,
-    "slug": "bunny-bracelet",
-    "name": "Bunny Bracelet",
-    "category": "bracelets",
-    "price": 220,
-    "currency": "PKR",
-    "shortDescription": "Handmade bunny bracelet with soft crochet texture and carefully finished details.",
-    "description": "Bunny Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/29-bunny-bracelet-1.webp",
-        "cardSrc": "/products/catalog/29-bunny-bracelet-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "bunny",
-      "bracelet",
-      "character",
-      "cute"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "size",
-        "label": "Size",
-        "options": [
-          "Small",
-          "Medium",
-          "Large"
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "size": "Medium"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      23,
-      24,
-      25
-    ],
-    "originalPrice": 440
-  },
-  {
-    "id": 30,
-    "itemNumber": 29,
-    "slug": "beige-crochet-bracelet",
-    "name": "Beige Crochet Bracelet",
-    "category": "bracelets",
-    "price": 210,
-    "currency": "PKR",
-    "shortDescription": "Handmade beige crochet bracelet with soft crochet texture and carefully finished details.",
-    "description": "Beige Crochet Bracelet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/30-beige-crochet-bracelet-1.webp",
-        "cardSrc": "/products/catalog/30-beige-crochet-bracelet-1-card.webp",
-        "width": 1254,
-        "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
-        "originalWidth": 1254,
-        "originalHeight": 1254
-      }
-    ],
-    "availability": "available",
-    "customizable": true,
-    "featured": false,
-    "tags": [
-      "bracelet",
-      "neutral",
-      "beige",
-      "everyday"
-    ],
-    "badges": [],
-    "variants": [
-      {
-        "type": "size",
-        "label": "Size",
-        "options": [
-          "Small",
-          "Medium",
-          "Large"
-        ]
-      }
-    ],
-    "defaultVariants": {
-      "size": "Medium"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      23,
-      24,
-      25
-    ],
-    "originalPrice": 420
-  },
-  {
-    "id": 31,
-    "itemNumber": 30,
-    "slug": "bee-pin-set",
-    "name": "Bee Pin Set",
-    "category": "pin-sets",
-    "price": 150,
-    "currency": "PKR",
-    "shortDescription": "Handmade bee pin set with soft crochet texture and carefully finished details.",
-    "description": "Bee Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/31-bee-pin-set-1.webp",
@@ -2485,43 +2729,43 @@
         "originalHeight": 1402
       }
     ],
-    "availability": "available",
-    "customizable": false,
-    "featured": false,
-    "tags": [
-      "bee",
-      "pins",
-      "set",
-      "mini",
-      "besties"
-    ],
-    "badges": [],
     "variants": [],
     "defaultVariants": {},
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      32,
-      33,
-      34
+      34,
+      35,
+      36
     ],
-    "originalPrice": 300
+    "relatedLimit": 3
   },
   {
-    "id": 32,
-    "itemNumber": 31,
+    "id": 34,
+    "itemNumber": 34,
     "slug": "carrot-pin-set",
     "name": "Carrot Pin Set",
     "category": "pin-sets",
-    "price": 160,
-    "currency": "PKR",
     "shortDescription": "Handmade carrot pin set with soft crochet texture and carefully finished details.",
     "description": "Carrot Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "carrot",
+      "pins",
+      "set",
+      "food",
+      "cute"
+    ],
+    "badges": [],
+    "price": 170,
+    "originalPrice": 340,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": false,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/32-carrot-pin-set-1.webp",
@@ -2534,43 +2778,42 @@
         "originalHeight": 1402
       }
     ],
-    "availability": "available",
-    "customizable": false,
-    "featured": false,
-    "tags": [
-      "carrot",
-      "pins",
-      "set",
-      "food",
-      "cute"
-    ],
-    "badges": [],
     "variants": [],
     "defaultVariants": {},
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      31,
       33,
-      34
+      35,
+      36
     ],
-    "originalPrice": 320
+    "relatedLimit": 3
   },
   {
-    "id": 33,
-    "itemNumber": 32,
+    "id": 35,
+    "itemNumber": 35,
     "slug": "strawberry-pin-set",
     "name": "Strawberry Pin Set",
     "category": "pin-sets",
-    "price": 170,
-    "currency": "PKR",
     "shortDescription": "Handmade strawberry pin set with soft crochet texture and carefully finished details.",
     "description": "Strawberry Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "strawberry",
+      "pins",
+      "fruit",
+      "set"
+    ],
+    "badges": [],
+    "price": 180,
+    "originalPrice": 360,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": false,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/33-strawberry-pin-set-1.webp",
@@ -2583,42 +2826,42 @@
         "originalHeight": 1402
       }
     ],
-    "availability": "available",
-    "customizable": false,
-    "featured": false,
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      33,
+      34,
+      36
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 36,
+    "itemNumber": 36,
+    "slug": "watermelon-pin-set",
+    "name": "Watermelon Pin Set",
+    "category": "pin-sets",
+    "shortDescription": "Handmade watermelon pin set with soft crochet texture and carefully finished details.",
+    "description": "Watermelon Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
     "tags": [
-      "strawberry",
+      "watermelon",
       "pins",
       "fruit",
       "set"
     ],
     "badges": [],
-    "variants": [],
-    "defaultVariants": {},
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
-    "sales": null,
-    "rating": null,
-    "reviewCount": null,
-    "relatedProductIds": [
-      31,
-      32,
-      34
-    ],
-    "originalPrice": 340
-  },
-  {
-    "id": 34,
-    "itemNumber": 33,
-    "slug": "watermelon-pin-set",
-    "name": "Watermelon Pin Set",
-    "category": "pin-sets",
-    "price": 180,
+    "price": 190,
+    "originalPrice": 380,
     "currency": "PKR",
-    "shortDescription": "Handmade watermelon pin set with soft crochet texture and carefully finished details.",
-    "description": "Watermelon Pin Set is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
-    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "availability": "available",
+    "customizable": false,
+    "featured": false,
+    "estimatedDays": 2,
+    "availabilityMessage": "Usually prepared for dispatch within 1–2 days.",
     "images": [
       {
         "src": "/products/catalog/34-watermelon-pin-set-1.webp",
@@ -2631,42 +2874,42 @@
         "originalHeight": 1448
       }
     ],
-    "availability": "available",
-    "customizable": false,
-    "featured": false,
-    "tags": [
-      "watermelon",
-      "pins",
-      "fruit",
-      "set"
-    ],
-    "badges": [],
     "variants": [],
     "defaultVariants": {},
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      31,
-      32,
-      33
+      33,
+      34,
+      35
     ],
-    "originalPrice": 360
+    "relatedLimit": 3
   },
   {
-    "id": 35,
-    "itemNumber": 34,
+    "id": 37,
+    "itemNumber": 37,
     "slug": "custom-initial-letter-charm",
     "name": "Custom Initial Letter Charm",
     "category": "gift-corner",
-    "price": 155,
-    "currency": "PKR",
     "shortDescription": "A personalized crochet initial charm made with your chosen letter and color.",
     "description": "Custom Initial Letter Charm is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "initial",
+      "personalized",
+      "letter",
+      "gift"
+    ],
+    "badges": [],
+    "price": 165,
+    "originalPrice": 330,
+    "currency": "PKR",
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 3,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 3 days.",
     "images": [
       {
         "src": "/products/catalog/35-custom-initial-letter-charm-1.webp",
@@ -2679,16 +2922,6 @@
         "originalHeight": 1254
       }
     ],
-    "availability": "made-to-order",
-    "customizable": true,
-    "featured": true,
-    "tags": [
-      "initial",
-      "personalized",
-      "letter",
-      "gift"
-    ],
-    "badges": [],
     "variants": [
       {
         "type": "color",
@@ -2728,52 +2961,1072 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      36,
-      37,
+      38,
+      20,
       1
     ],
-    "originalPrice": 310
+    "relatedLimit": 3
   },
   {
-    "id": 36,
-    "itemNumber": 35,
-    "slug": "mini-crochet-bag",
-    "name": "Mini Crochet Bag",
+    "id": 38,
+    "itemNumber": 38,
+    "slug": "mini-crochet-bouquet",
+    "name": "Mini Crochet Bouquet",
     "category": "gift-corner",
-    "price": 220,
-    "currency": "PKR",
-    "shortDescription": "Handmade mini crochet bag with soft crochet texture and carefully finished details.",
-    "description": "Mini Crochet Bag is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
+    "shortDescription": "Handmade mini crochet bouquet with soft crochet texture and carefully finished details.",
+    "description": "Mini Crochet Bouquet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "bouquet",
+      "flowers",
+      "gift",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 210,
+    "originalPrice": 420,
+    "currency": "PKR",
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 5,
+    "availabilityMessage": "Handmade after ordering and usually ready within about 5 days.",
     "images": [
       {
-        "src": "/products/catalog/36-mini-crochet-bag-1.webp",
-        "cardSrc": "/products/catalog/36-mini-crochet-bag-1-card.webp",
+        "src": "/products/catalog/37-mini-crochet-bouquet-1.webp",
+        "cardSrc": "/products/catalog/37-mini-crochet-bouquet-1-card.webp",
+        "width": 1122,
+        "height": 1402,
+        "cardWidth": 640,
+        "cardHeight": 800,
+        "originalWidth": 1122,
+        "originalHeight": 1402
+      }
+    ],
+    "variants": [
+      {
+        "type": "palette",
+        "label": "Palette",
+        "options": [
+          "As Shown",
+          "Pink Mix",
+          "Pastel Mix",
+          "Custom Colors"
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "palette": "As Shown"
+    },
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      37,
+      20,
+      1
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 39,
+    "itemNumber": 39,
+    "slug": "mini-book-crochet-keychain",
+    "name": "Mini Book Keychain",
+    "category": "keychains",
+    "shortDescription": "A tiny handmade crochet book keychain with a playful, giftable finish.",
+    "description": "Mini Book Crochet Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "book",
+      "keychain",
+      "mini",
+      "gift",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 260,
+    "originalPrice": 520,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-39-mini-book-crochet-keychain-01.png",
+        "cardSrc": "/products/catalog/new-39-mini-book-crochet-keychain-01.png",
         "width": 1254,
         "height": 1254,
-        "cardWidth": 640,
-        "cardHeight": 640,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
         "originalWidth": 1254,
         "originalHeight": 1254
       }
     ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      40,
+      41,
+      42
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 40,
+    "itemNumber": 40,
+    "slug": "fruit-slice-crochet-keychain",
+    "name": "Fruit Slice Keychain",
+    "category": "keychains",
+    "shortDescription": "A bright handmade crochet fruit-slice keychain with multiple playful designs.",
+    "description": "Fruit Slice Crochet Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "fruit",
+      "slice",
+      "keychain",
+      "colorful",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 230,
+    "originalPrice": 460,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-40-fruit-slice-crochet-keychain-01.png",
+        "cardSrc": "/products/catalog/new-40-fruit-slice-crochet-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-40-fruit-slice-crochet-keychain-02.png",
+        "cardSrc": "/products/catalog/new-40-fruit-slice-crochet-keychain-02.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-40-fruit-slice-crochet-keychain-03.png",
+        "cardSrc": "/products/catalog/new-40-fruit-slice-crochet-keychain-03.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      41,
+      42
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 41,
+    "itemNumber": 41,
+    "slug": "sunny-lemon-crochet-keychain",
+    "name": "Sunny Lemon Keychain",
+    "category": "keychains",
+    "shortDescription": "A cheerful handmade lemon keychain with a fresh citrus-inspired look.",
+    "description": "Sunny Lemon Crochet Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "lemon",
+      "fruit",
+      "yellow",
+      "keychain",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 230,
+    "originalPrice": 460,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-41-sunny-lemon-crochet-keychain-01.png",
+        "cardSrc": "/products/catalog/new-41-sunny-lemon-crochet-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      42
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 42,
+    "itemNumber": 42,
+    "slug": "mini-flower-bouquet-keychain",
+    "name": "Mini Flower Bouquet Keychain",
+    "category": "keychains",
+    "shortDescription": "A miniature crochet flower bouquet made into a soft, giftable keychain.",
+    "description": "Mini Flower Bouquet Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "bouquet",
+      "flowers",
+      "keychain",
+      "gift",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 310,
+    "originalPrice": 620,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-42-mini-flower-bouquet-keychain-01.png",
+        "cardSrc": "/products/catalog/new-42-mini-flower-bouquet-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-42-mini-flower-bouquet-keychain-02.png",
+        "cardSrc": "/products/catalog/new-42-mini-flower-bouquet-keychain-02.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-42-mini-flower-bouquet-keychain-03.png",
+        "cardSrc": "/products/catalog/new-42-mini-flower-bouquet-keychain-03.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-42-mini-flower-bouquet-keychain-04.png",
+        "cardSrc": "/products/catalog/new-42-mini-flower-bouquet-keychain-04.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [
+      {
+        "type": "palette",
+        "label": "Palette",
+        "options": [
+          {
+            "id": "as-shown",
+            "label": "As Shown"
+          },
+          {
+            "id": "pink-mix",
+            "label": "Pink Mix"
+          },
+          {
+            "id": "pastel-mix",
+            "label": "Pastel Mix"
+          },
+          {
+            "id": "custom-colors",
+            "label": "Custom Colors"
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "palette": "as-shown"
+    },
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 43,
+    "itemNumber": 43,
+    "slug": "classic-crochet-flower-keychain-new",
+    "name": "Classic Flower Keychain",
+    "category": "keychains",
+    "shortDescription": "A classic crochet flower keychain available in a collection of handmade colorways.",
+    "description": "Classic Crochet Flower Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "flower",
+      "floral",
+      "keychain",
+      "colorful",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 210,
+    "originalPrice": 420,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-01.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-02.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-02.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-03.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-03.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-04.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-04.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-05.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-05.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-06.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-06.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-07.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-07.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-08.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-08.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-09.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-09.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-10.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-10.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-11.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-11.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-43-classic-crochet-flower-keychain-new-12.png",
+        "cardSrc": "/products/catalog/new-43-classic-crochet-flower-keychain-new-12.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [
+      {
+        "type": "color",
+        "label": "Color",
+        "options": [
+          {
+            "id": "as-shown",
+            "label": "As Shown"
+          },
+          {
+            "id": "pink",
+            "label": "Pink",
+            "colors": [
+              "#E8A6B5"
+            ]
+          },
+          {
+            "id": "purple",
+            "label": "Purple",
+            "colors": [
+              "#9B79B6"
+            ]
+          },
+          {
+            "id": "white",
+            "label": "White",
+            "colors": [
+              "#FFFFFF"
+            ]
+          },
+          {
+            "id": "yellow",
+            "label": "Yellow",
+            "colors": [
+              "#F2CF66"
+            ]
+          },
+          {
+            "id": "custom-color",
+            "label": "Custom Color"
+          }
+        ]
+      }
+    ],
+    "defaultVariants": {
+      "color": "as-shown"
+    },
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 44,
+    "itemNumber": 44,
+    "slug": "blush-pink-flower-keychain",
+    "name": "Blush Pink Flower Keychain",
+    "category": "keychains",
+    "shortDescription": "A soft blush-pink crochet flower keychain with a sweet floral finish.",
+    "description": "Blush Pink Flower Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "pink",
+      "flower",
+      "keychain",
+      "floral",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 210,
+    "originalPrice": 420,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-44-blush-pink-flower-keychain-01.png",
+        "cardSrc": "/products/catalog/new-44-blush-pink-flower-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 45,
+    "itemNumber": 45,
+    "slug": "lavender-flower-keychain",
+    "name": "Lavender Flower Keychain",
+    "category": "keychains",
+    "shortDescription": "A lavender-toned crochet flower keychain with delicate handmade detail.",
+    "description": "Lavender Flower Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "purple",
+      "lavender",
+      "flower",
+      "keychain",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 210,
+    "originalPrice": 420,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-45-lavender-flower-keychain-01.png",
+        "cardSrc": "/products/catalog/new-45-lavender-flower-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-45-lavender-flower-keychain-02.png",
+        "cardSrc": "/products/catalog/new-45-lavender-flower-keychain-02.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 46,
+    "itemNumber": 46,
+    "slug": "ivory-flower-keychain",
+    "name": "Ivory Flower Keychain",
+    "category": "keychains",
+    "shortDescription": "A clean ivory crochet flower keychain with a simple, elegant handmade look.",
+    "description": "Ivory Flower Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "white",
+      "ivory",
+      "flower",
+      "keychain",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 210,
+    "originalPrice": 420,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-46-ivory-flower-keychain-01.png",
+        "cardSrc": "/products/catalog/new-46-ivory-flower-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-46-ivory-flower-keychain-02.png",
+        "cardSrc": "/products/catalog/new-46-ivory-flower-keychain-02.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 47,
+    "itemNumber": 47,
+    "slug": "sunny-crochet-sunflower-keychain",
+    "name": "Sunny Sunflower Keychain",
+    "category": "keychains",
+    "shortDescription": "A bright crochet sunflower keychain with several handmade views and variations.",
+    "description": "Sunny Crochet Sunflower Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "sunflower",
+      "yellow",
+      "flower",
+      "keychain",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 260,
+    "originalPrice": 520,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-01.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-02.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-02.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-03.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-03.png",
+        "width": 424,
+        "height": 424,
+        "cardWidth": 424,
+        "cardHeight": 424,
+        "originalWidth": 424,
+        "originalHeight": 424
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-04.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-04.png",
+        "width": 426,
+        "height": 424,
+        "cardWidth": 426,
+        "cardHeight": 424,
+        "originalWidth": 426,
+        "originalHeight": 424
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-05.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-05.png",
+        "width": 432,
+        "height": 432,
+        "cardWidth": 432,
+        "cardHeight": 432,
+        "originalWidth": 432,
+        "originalHeight": 432
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-06.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-06.png",
+        "width": 420,
+        "height": 433,
+        "cardWidth": 420,
+        "cardHeight": 433,
+        "originalWidth": 420,
+        "originalHeight": 433
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-07.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-07.png",
+        "width": 426,
+        "height": 426,
+        "cardWidth": 426,
+        "cardHeight": 426,
+        "originalWidth": 426,
+        "originalHeight": 426
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-08.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-08.png",
+        "width": 429,
+        "height": 429,
+        "cardWidth": 429,
+        "cardHeight": 429,
+        "originalWidth": 429,
+        "originalHeight": 429
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-09.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-09.png",
+        "width": 427,
+        "height": 427,
+        "cardWidth": 427,
+        "cardHeight": 427,
+        "originalWidth": 427,
+        "originalHeight": 427
+      },
+      {
+        "src": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-10.png",
+        "cardSrc": "/products/catalog/new-47-sunny-crochet-sunflower-keychain-10.png",
+        "width": 433,
+        "height": 433,
+        "cardWidth": 433,
+        "cardHeight": 433,
+        "originalWidth": 433,
+        "originalHeight": 433
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 48,
+    "itemNumber": 48,
+    "slug": "pink-strawberry-crochet-keychain",
+    "name": "Pink Strawberry Keychain",
+    "category": "keychains",
+    "shortDescription": "A cute pink strawberry crochet keychain made for bags, keys, and gifting.",
+    "description": "Pink Strawberry Crochet Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "strawberry",
+      "pink",
+      "fruit",
+      "keychain",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 260,
+    "originalPrice": 520,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-48-pink-strawberry-crochet-keychain-01.png",
+        "cardSrc": "/products/catalog/new-48-pink-strawberry-crochet-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 49,
+    "itemNumber": 49,
+    "slug": "strawberry-blossom-keychain",
+    "name": "Strawberry Blossom Keychain",
+    "category": "keychains",
+    "shortDescription": "A charming crochet strawberry-and-flower keychain combining fruit and floral details.",
+    "description": "Strawberry Blossom Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "strawberry",
+      "flower",
+      "blossom",
+      "keychain",
+      "handmade"
+    ],
+    "badges": [],
+    "price": 330,
+    "originalPrice": 660,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-49-strawberry-blossom-keychain-01.png",
+        "cardSrc": "/products/catalog/new-49-strawberry-blossom-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-49-strawberry-blossom-keychain-02.png",
+        "cardSrc": "/products/catalog/new-49-strawberry-blossom-keychain-02.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-49-strawberry-blossom-keychain-03.png",
+        "cardSrc": "/products/catalog/new-49-strawberry-blossom-keychain-03.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 50,
+    "itemNumber": 50,
+    "slug": "ivory-crochet-rose",
+    "name": "Ivory Rose",
+    "category": "gift-corner",
+    "shortDescription": "A handmade ivory crochet rose designed as a lasting little floral gift.",
+    "description": "Ivory Crochet Rose is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
+    "tags": [
+      "rose",
+      "white",
+      "ivory",
+      "flower",
+      "gift"
+    ],
+    "badges": [],
+    "price": 360,
+    "originalPrice": 720,
+    "currency": "PKR",
     "availability": "made-to-order",
     "customizable": true,
     "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-50-ivory-crochet-rose-01.png",
+        "cardSrc": "/products/catalog/new-50-ivory-crochet-rose-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
+    "variants": [],
+    "defaultVariants": {},
+    "sales": null,
+    "rating": null,
+    "reviewCount": null,
+    "relatedProductIds": [
+      39,
+      40,
+      41
+    ],
+    "relatedLimit": 3
+  },
+  {
+    "id": 51,
+    "itemNumber": 51,
+    "slug": "forever-crochet-tulip",
+    "name": "Forever Tulip",
+    "category": "gift-corner",
+    "shortDescription": "A handmade crochet tulip that keeps its shape as a sweet forever-flower gift.",
+    "description": "Forever Crochet Tulip is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
+    "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
     "tags": [
-      "mini-bag",
-      "gift",
-      "crochet",
-      "cute"
+      "tulip",
+      "flower",
+      "pink",
+      "white",
+      "gift"
     ],
     "badges": [],
+    "price": 360,
+    "originalPrice": 720,
+    "currency": "PKR",
+    "availability": "made-to-order",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
+      {
+        "src": "/products/catalog/new-51-forever-crochet-tulip-01.png",
+        "cardSrc": "/products/catalog/new-51-forever-crochet-tulip-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      },
+      {
+        "src": "/products/catalog/new-51-forever-crochet-tulip-02.png",
+        "cardSrc": "/products/catalog/new-51-forever-crochet-tulip-02.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
+      }
+    ],
     "variants": [
       {
         "type": "color",
@@ -2794,11 +4047,8 @@
             ]
           },
           {
-            "id": "purple",
-            "label": "Purple",
-            "colors": [
-              "#9B79B6"
-            ]
+            "id": "custom-color",
+            "label": "Custom Color"
           }
         ]
       }
@@ -2806,78 +4056,63 @@
     "defaultVariants": {
       "color": "pink"
     },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      35,
-      37,
-      1
+      39,
+      40,
+      41
     ],
-    "originalPrice": 440
+    "relatedLimit": 3
   },
   {
-    "id": 37,
-    "itemNumber": 36,
-    "slug": "mini-crochet-bouquet",
-    "name": "Mini Crochet Bouquet",
-    "category": "gift-corner",
-    "price": 200,
-    "currency": "PKR",
-    "shortDescription": "Handmade mini crochet bouquet with soft crochet texture and carefully finished details.",
-    "description": "Mini Crochet Bouquet is handmade by CozyStitch with careful stitching and a playful finish for everyday use or gifting.",
+    "id": 52,
+    "itemNumber": 52,
+    "slug": "mini-sneaker-crochet-keychain",
+    "name": "Mini Sneaker Keychain",
+    "category": "keychains",
+    "shortDescription": "A playful mini crochet sneaker keychain with carefully stitched handmade detail.",
+    "description": "Mini Sneaker Crochet Keychain is handmade by CozyStitch with careful crochet stitching and a polished finish for everyday use or gifting.",
     "about": "A small handmade crochet piece designed with CozyStitch’s soft, colorful, giftable style.",
-    "images": [
-      {
-        "src": "/products/catalog/37-mini-crochet-bouquet-1.webp",
-        "cardSrc": "/products/catalog/37-mini-crochet-bouquet-1-card.webp",
-        "width": 1122,
-        "height": 1402,
-        "cardWidth": 640,
-        "cardHeight": 800,
-        "originalWidth": 1122,
-        "originalHeight": 1402
-      }
-    ],
-    "availability": "made-to-order",
-    "customizable": true,
-    "featured": false,
     "tags": [
-      "bouquet",
-      "flowers",
-      "gift",
+      "shoe",
+      "sneaker",
+      "mini",
+      "keychain",
       "handmade"
     ],
     "badges": [],
-    "variants": [
+    "price": 260,
+    "originalPrice": 520,
+    "currency": "PKR",
+    "availability": "available",
+    "customizable": true,
+    "featured": false,
+    "estimatedDays": 7,
+    "availabilityMessage": "Usually prepared and ready within 5–7 days.",
+    "images": [
       {
-        "type": "palette",
-        "label": "Palette",
-        "options": [
-          "As Shown",
-          "Pink Mix",
-          "Pastel Mix",
-          "Custom Colors"
-        ]
+        "src": "/products/catalog/new-52-mini-sneaker-crochet-keychain-01.png",
+        "cardSrc": "/products/catalog/new-52-mini-sneaker-crochet-keychain-01.png",
+        "width": 1254,
+        "height": 1254,
+        "cardWidth": 1254,
+        "cardHeight": 1254,
+        "originalWidth": 1254,
+        "originalHeight": 1254
       }
     ],
-    "defaultVariants": {
-      "palette": "As Shown"
-    },
-    "relatedLimit": 3,
-    "estimatedDays": "7–10",
-    "availabilityMessage": "Estimated delivery within 7–10 days.",
+    "variants": [],
+    "defaultVariants": {},
     "sales": null,
     "rating": null,
     "reviewCount": null,
     "relatedProductIds": [
-      35,
-      36,
-      1
+      39,
+      40,
+      41
     ],
-    "originalPrice": 400
+    "relatedLimit": 3
   }
 ]

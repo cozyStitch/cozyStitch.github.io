@@ -1,0 +1,1 @@
+import"./useLocale-ClcKoHy7.js";var e=()=>`en`;export{e as t};
