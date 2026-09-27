@@ -1,1 +1,0 @@
-import"./useLocale-Ciarc67E.js";var e=()=>`en`;export{e as t};
